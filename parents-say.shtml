@@ -1,0 +1,100 @@
+<!-- testimonial area start here  -->
+<section class="bd-testimonial-area-2 pb-120 p-relative pt-120 theme-bg">
+    <div class="bd-testimonial-bottom-shape">
+       <img src="assets/img/shape/wave-section-break.png" alt="img not found!">
+    </div>
+    <div class="container">
+       <div class="row justify-content-center">
+          <div class="col-lg-8">
+             <div class="bd-section-title-wrapper is-white z-index-1 p-relative text-center mb-55 wow fadeInUp"
+                data-wow-duration="1s" data-wow-delay=".3s">
+                <h2 class="bd-section-title mb-0">Parents Says</h2>
+                <p>With the help of teachers and the environment as the third teacher, students<br> have
+                   opportunities to confidently take risks.</p>
+             </div>
+          </div>
+       </div>
+       <div class="row">
+          <div class="col-12">
+             <div class="bd-testimonial-active-2 swiper-container wow fadeInUp" data-wow-duration="1s"
+                data-wow-delay=".5s">
+                <div class="swiper-wrapper">
+                   <div class="swiper-slide">
+                      <div class="bd-testimonial-2 mr-5 theme-bg-6 mb-25">
+                         <div class="bd-testimonial-rating mb-30">
+                            <a href="#"><i class="fas fa-star"></i></a>
+                            <a href="#"><i class="fas fa-star"></i></a>
+                            <a href="#"><i class="fas fa-star"></i></a>
+                            <a href="#"><i class="fas fa-star"></i></a>
+                            <a href="#"><i class="fas fa-star"></i></a>
+                         </div>
+                         <div class="bd-testimonial-content-2 mb-35">
+                            <p>We are so grateful for Widewings Pre-School! The personalized attention and care our child receives are unmatched. The teachers are dedicated, and the hands-on learning activities have truly sparked a love for learning in our little one!</p>
+                         </div>
+                         <div class="bd-testimonial-avatar d-flex align-items-center">
+                            <!-- <div class="bd-testimonial-avatar-thumb">
+                               <img src="assets/img/testimonials/1.png" alt="testimonial avatar">
+                            </div> -->
+                            <h6 class="bd-testimonial-avatar-title-2 mb-0">Sanjay Mehta</h6>
+                            <div class="bd-testimonial-quote d-none d-sm-block clr-2">
+                               <i class="flaticon-quote"></i>
+                            </div>
+                         </div>
+                      </div>
+                   </div>
+                   <div class="swiper-slide">
+                      <div class="bd-testimonial-2 mr-5 clr-3 theme-bg-7">
+                         <div class="bd-testimonial-rating mb-30">
+                            <a href="#"><i class="fas fa-star"></i></a>
+                            <a href="#"><i class="fas fa-star"></i></a>
+                            <a href="#"><i class="fas fa-star"></i></a>
+                            <a href="#"><i class="fas fa-star"></i></a>
+                            <a href="#"><i class="fas fa-star"></i></a>
+                         </div>
+                         <div class="bd-testimonial-content-2 mb-35">
+                            <p>Widewings Pre-School has exceeded our expectations! The individualized learning plans have helped our child progress so much. The environment is safe and stimulating, and we couldn't be happier with our choice.</p>
+                         </div>
+                         <div class="bd-testimonial-avatar d-flex align-items-center">
+                            <!-- <div class="bd-testimonial-avatar-thumb">
+                               <img src="assets/img/testimonials/2.png" alt="testimonial avatar">
+                            </div> -->
+                            <h6 class="bd-testimonial-avatar-title-2 mb-0">Pooja Sharma</h6>
+                            <div class="bd-testimonial-quote d-none d-sm-block clr-1">
+                               <i class="flaticon-quote"></i>
+                            </div>
+                         </div>
+                      </div>
+                   </div>
+                   <div class="swiper-slide">
+                      <div class="bd-testimonial-2 mr-5 clr-3 theme-bg-7">
+                         <div class="bd-testimonial-rating mb-30">
+                            <a href="#"><i class="fas fa-star"></i></a>
+                            <a href="#"><i class="fas fa-star"></i></a>
+                            <a href="#"><i class="fas fa-star"></i></a>
+                            <a href="#"><i class="fas fa-star"></i></a>
+                            <a href="#"><i class="fas fa-star"></i></a>
+                         </div>
+                         <div class="bd-testimonial-content-2 mb-35">
+                            <p>Widewings Pre-School has been a wonderful experience for our family. The staff is incredibly caring and attentive, and our child has thrived in their nurturing environment. The individualized learning plans have really helped our child progress academically and socially. We're so grateful to be a part of the Widewings community!</p>
+                         </div>   
+                         <div class="bd-testimonial-avatar d-flex align-items-center">
+                            <!-- <div class="bd-testimonial-avatar-thumb">
+                               <img src="assets/img/testimonials/2.png" alt="testimonial avatar">
+                            </div> -->
+                            <h6 class="bd-testimonial-avatar-title-2 mb-0">Nisha Gupta</h6>
+                            <div class="bd-testimonial-quote d-none d-sm-block clr-1">
+                               <i class="flaticon-quote"></i>
+                            </div>
+                         </div>
+                      </div>
+                   </div>
+                </div>
+             </div>
+             <!-- slider dots pagination -->
+             <div class="bd-testimonial-pagination-2 bd-dots-pagination justify-content-center wow fadeInUp"
+                data-wow-duration="1s" data-wow-delay=".3s"></div>
+          </div>
+       </div>
+    </div>
+ </section>
+ <!-- testimonial area end here  -->

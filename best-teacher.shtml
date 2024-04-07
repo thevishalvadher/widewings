@@ -1,0 +1,149 @@
+<section class="bd-teacher-area pt-120 pb-120">
+    <div class="container">
+       <div class="row justify-content-center">
+          <div class="col-lg-10">
+             <div class="bd-section-title-wrapper text-center mb-55 wow fadeInUp" data-wow-duration="1s"
+                data-wow-delay=".3s">
+                <h2 class="bd-section-title mb-0">Our Best Teachers</h2>
+                <p>At Widewings Pre-School, we take pride in our exceptional team of educators who are dedicated to nurturing young minds and shaping the future leaders of tomorrow. Our best teachers bring a wealth of experience, expertise, and passion to the classroom, creating a dynamic and engaging learning environment for our students.</p>
+             </div>
+          </div>
+       </div>
+       <div class="row">
+          <div class="col-12">
+             <div class="bd-teacher-active swiper-container wow fadeInLeft" data-wow-duration="1s"
+                data-wow-delay=".4s">
+                <div class="swiper-wrapper">
+                   <div class="swiper-slide">
+                      <div class="bd-teacher">
+                         <a href="javascript:void(0)">
+                            <div class="bd-teacher-thumb">
+                               <img src="assets/img/teacher/1.jpg" alt="Image not found">
+                            </div>
+                         </a>
+                         <div class="bd-teacher-content-wrapper">
+                            <div class="bd-teacher-content">
+                               <h4 class="bd-teacher-title"><a href="javascript:void(0)">Priya Sharma</a></h4>
+                               <span class="bd-teacher-des">Teacher</span>
+                            </div>
+                            <!-- <div class="bd-teacher-social">
+                               <ul>
+                                  <li>
+                                     <a target="_blank" href="https://www.facebook.com/"><i
+                                           class="fa-brands fa-facebook-f"></i></a>
+                                  </li>
+                                  <li>
+                                     <a target="_blank" href="https://twitter.com/"><i
+                                           class="fa-brands fa-twitter"></i></a>
+                                  </li>
+                                  <li>
+                                     <a target="_blank" href="https://www.youtube.com/"><i
+                                           class="fa-brands fa-youtube"></i></a>
+                                  </li>
+                               </ul>
+                            </div> -->
+                         </div>
+                      </div>
+                   </div>
+                   <div class="swiper-slide">
+                      <div class="bd-teacher">
+                         <a href="javascript:void(0)">
+                            <div class="bd-teacher-thumb">
+                               <img src="assets/img/teacher/1.jpg" alt="Image not found">
+                            </div>
+                         </a>
+                         <div class="bd-teacher-content-wrapper">
+                            <div class="bd-teacher-content">
+                               <h4 class="bd-teacher-title"><a href="javascript:void(0)">Minal Patel</a></h4>
+                               <span class="bd-teacher-des">Teacher</span>
+                            </div>
+                            <!-- <div class="bd-teacher-social">
+                               <ul>
+                                  <li>
+                                     <a target="_blank" href="https://www.facebook.com/"><i
+                                           class="fa-brands fa-facebook-f"></i></a>
+                                  </li>
+                                  <li>
+                                     <a target="_blank" href="https://twitter.com/"><i
+                                           class="fa-brands fa-twitter"></i></a>
+                                  </li>
+                                  <li>
+                                     <a target="_blank" href="https://www.youtube.com/"><i
+                                           class="fa-brands fa-youtube"></i></a>
+                                  </li>
+                               </ul>
+                            </div> -->
+                         </div>
+                      </div>
+                   </div>
+                   <div class="swiper-slide">
+                      <div class="bd-teacher">
+                         <a href="javascript:void(0)">
+                            <div class="bd-teacher-thumb">
+                               <img src="assets/img/teacher/1.jpg" alt="Image not found">
+                            </div>
+                         </a>
+                         <div class="bd-teacher-content-wrapper">
+                            <div class="bd-teacher-content">
+                               <h4 class="bd-teacher-title"><a href="javascript:void(0)">Diya Shah</a></h4>
+                               <span class="bd-teacher-des">Teacher</span>
+                            </div>
+                            <!-- <div class="bd-teacher-social">
+                               <ul>
+                                  <li>
+                                     <a target="_blank" href="https://www.facebook.com/"><i
+                                           class="fa-brands fa-facebook-f"></i></a>
+                                  </li>
+                                  <li>
+                                     <a target="_blank" href="https://twitter.com/"><i
+                                           class="fa-brands fa-twitter"></i></a>
+                                  </li>
+                                  <li>
+                                     <a target="_blank" href="https://www.youtube.com/"><i
+                                           class="fa-brands fa-youtube"></i></a>
+                                  </li>
+                               </ul>
+                            </div> -->
+                         </div>
+                      </div>
+                   </div>
+                   <div class="swiper-slide">
+                      <div class="bd-teacher">
+                         <a href="javascript:void(0)">
+                            <div class="bd-teacher-thumb">
+                               <img src="assets/img/teacher/1.jpg" alt="Image not found">
+                            </div>
+                         </a>
+                         <div class="bd-teacher-content-wrapper">
+                            <div class="bd-teacher-content">
+                               <h4 class="bd-teacher-title"><a href="javascript:void(0)">Hetal Trivedi</a></h4>
+                               <span class="bd-teacher-des">Teacher</span>
+                            </div>
+                            <!-- <div class="bd-teacher-social">
+                               <ul>
+                                  <li>
+                                     <a target="_blank" href="https://www.facebook.com/"><i
+                                           class="fa-brands fa-facebook-f"></i></a>
+                                  </li>
+                                  <li>
+                                     <a target="_blank" href="https://twitter.com/"><i
+                                           class="fa-brands fa-twitter"></i></a>
+                                  </li>
+                                  <li>
+                                     <a target="_blank" href="https://www.youtube.com/"><i
+                                           class="fa-brands fa-youtube"></i></a>
+                                  </li>
+                               </ul>
+                            </div> -->
+                         </div>
+                      </div>
+                   </div>
+                </div>
+             </div>
+
+             <!-- teacher slider dots pagination  -->
+             <div class="bd-teacher-pagination bd-dots-pagination"></div>
+          </div>
+       </div>
+    </div>
+ </section>

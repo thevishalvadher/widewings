@@ -1,0 +1,18 @@
+.bd-class-area{
+    .swiper-slide{
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        .bd-class-wrapper{
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+        }
+        .bd-class{
+            flex-grow: 1;
+        }
+    }
+}
+.bd-testimonial-area.my-bg{
+   background-color: #fafafa;
+}

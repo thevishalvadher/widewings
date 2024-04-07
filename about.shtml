@@ -1,0 +1,320 @@
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<head>
+   <meta charset="utf-8">
+   <meta http-equiv="x-ua-compatible" content="ie=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <title>About Us | Widewings Preschool | Ranavav Near Porbandar</title>
+   <meta name="title" content="About Us | Widewings Preschool | Ranavav Near Porbandar">
+   <meta name="description" content="Learn more about Widewings Preschool in Ranavav, near Porbandar. Discover our mission, values, and commitment to providing a nurturing environment for early childhood development. Meet our dedicated team of educators and explore our facilities. Enroll your child today and be a part of our community!">
+
+   <!-- Place favicon.ico in the root directory -->
+   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+
+   <!-- CSS here -->
+   <link rel="stylesheet" href="assets/css/bootstrap.css">
+   <link rel="stylesheet" href="assets/css/meanmenu.css">
+   <link rel="stylesheet" href="assets/css/animate.min.css">
+   <link rel="stylesheet" href="assets/css/swiper-bundle.css">
+   <link rel="stylesheet" href="assets/css/slick.css">
+   <link rel="stylesheet" href="assets/css/nouislider.css">
+   <link rel="stylesheet" href="assets/css/backtotop.css">
+   <link rel="stylesheet" href="assets/css/magnific-popup.css">
+   <link rel="stylesheet" href="assets/css/nice-select.css">
+   <link rel="stylesheet" href="assets/css/flaticon_kindedo.css">
+   <link rel="stylesheet" href="assets/css/font-awesome-pro.css">
+   <link rel="stylesheet" href="assets/css/odometer.css">
+   <link rel="stylesheet" href="assets/css/spacing.css">
+   <link rel="stylesheet" href="assets/css/main.css">
+</head>
+
+<body>
+
+   <!--#include file="header.shtml"-->
+
+   <!-- main area start here  -->
+   <main>
+      <!-- breadcrumb area start here -->
+      <section class="bd-breadcrumb-area p-relative fix theme-bg">
+         <!-- breadcrumb background image -->
+         <div class="bd-breadcrumb-bg" data-background="assets/img/bg/breadcrumb-bg.jpg"></div>
+         <div class="bd-breadcrumb-wrapper mb-60 p-relative">
+            <div class="container">
+               <div class="bd-breadcrumb-shape d-none d-sm-block p-relative">
+                  <div class="bd-breadcrumb-shape-1">
+                     <img src="assets/img/shape/curved-line-2.png" alt="img not found!">
+                  </div>
+                  <div class="bd-breadcrumb-shape-2">
+                     <img src="assets/img/shape/white-curved-line.png" alt="img not found!">
+                  </div>
+               </div>
+               <div class="row justify-content-center">
+                  <div class="col-xl-10">
+                     <div class="bd-breadcrumb d-flex align-items-center justify-content-center">
+                        <div class="bd-breadcrumb-content text-center">
+                           <h1 class="bd-breadcrumb-title">About Us</h1>
+                           <div class="bd-breadcrumb-list">
+                              <span><a href="index.shtml"><i class="flaticon-hut"></i>Home</a></span>
+                              <span>About Us</span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="bd-wave-wrapper bd-wave-wrapper-3">
+            <div class="bd-wave bd-wave-3"></div>
+            <div class="bd-wave bd-wave-3"></div>
+         </div>
+      </section>
+      <!-- breadcrumb area end here  -->
+
+      <!-- promotion area start here  -->
+      <section class="bd-promotion-area pt-120 pb-60">
+         <div class="container">
+            <div class="row align-items-center">
+               <div class="col-xl-6 col-lg-6">
+                  <div class="bd-promotion-thumb-wrapper mb-60 wow fadeInLeft" data-wow-duration="1s"
+                     data-wow-delay=".3s">
+                     <div class="bd-promotion-thumb">
+                        <div class="bd-promotion-thumb-mask p-relative">
+                           <img src="assets/img/promotion/4.png" alt="Image not found">
+                           <div class="panel wow"></div>
+                        </div>
+                     </div>
+                     <div class="bd-promotion-shape d-none d-lg-block">
+                        <img src="assets/img/shape/tripple-line.png" alt="Shape not found">
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-6 col-lg-6">
+                  <div class="bd-promotion mb-60 wow fadeInRight" data-wow-duration="1s" data-wow-delay=".3s">
+                     <div class="bd-section-title-wrapper mb-35">
+                        <h2 class="bd-section-title mb-10">Perfect for Your Child's Development</h2>
+                        <span>
+                           At Widewings Preschool, we understand that early childhood is a critical time for development, and we are dedicated to providing an environment that nurtures and supports your child's growth. 
+                        </span>
+                        <p>Our curriculum is designed to stimulate cognitive, social, emotional, and physical development through engaging activities and interactive learning experiences.</p>
+                     </div>
+                     <!-- <div class="bd-promotion-list mb-50">
+                        <ul>
+                           <li>We believe every child is intelligent so we care.</li>
+                           <li>Teachers make a difference of your child.</li>
+                        </ul>
+                     </div> -->
+                     <div class="bd-promotion-btn-wrapper flex-wrap">
+                        <div class="bd-promotion-btn">
+                           <a href="contact.shtml" class="bd-btn">
+                              <span class="bd-btn-inner">
+                                 <span class="bd-btn-normal">Inquiry</span>
+                                 <span class="bd-btn-hover">Inquiry</span>
+                              </span>
+                           </a>
+                        </div>
+                        <!-- <div class="bd-promotion-btn-2 bd-pulse-btn btn-2">
+                           <a href="javascript:void(0)" class="popup-video"><i
+                                 class="flaticon-play-button"></i> Promotional Video</a>
+                        </div> -->
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- promotion area end here  -->
+
+      <!-- feature area start here-->
+      <div class="bd-feature-area p-relative theme-bg pt-120 pb-120">
+         <div class="bd-feature-bottom-shape">
+            <img src="assets/img/shape/wave-section-break.png" alt="img not found!">
+         </div>
+         <div class="container">
+            <div class="row justify-content-center">
+               <div class="col-lg-8 col-md-10">
+                  <div class="bd-section-title-wrapper is-white text-center mb-55 wow fadeInUp" data-wow-duration="1s"
+                     data-wow-delay=".3s">
+                     <h2 class="bd-section-title mb-0">Our Core Value</h2>
+                     <p>Our core values prioritize innovation, excellence, inclusivity, and empathy. We strive to create a nurturing environment that encourages creativity and embraces diversity.</p>
+                  </div>
+               </div>
+            </div>
+            <div class="bd-feature-wrapper wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
+               <div class="row">
+                  <div class="col-12">
+                     <ul class="feature">
+                        <li class="feature-item">
+                           <div class="bd-feature">
+                              <div class="bd-feature-content">
+                                 <div class="bd-feature-icon icon-1">
+                                    <i class="flaticon-book"></i>
+                                 </div>
+                                 <h4 class="bd-feature-title">Innovation</h4>
+                                 <p>Encouraging creativity and new ideas in teaching methods and curriculum development.</p>
+                              </div>
+                           </div>
+                        </li>
+                        <li class="feature-item">
+                           <div class="bd-feature">
+                              <div class="bd-feature-content">
+                                 <div class="bd-feature-icon icon-2">
+                                    <i class="flaticon-tick"></i>
+                                 </div>
+                                 <h4 class="bd-feature-title">Excellence</h4>
+                                 <p>Striving for high standards in education, facilities, and child development.</p>
+                              </div>
+                           </div>
+                        </li>
+                        <li class="feature-item">
+                           <div class="bd-feature">
+                              <div class="bd-feature-content">
+                                 <div class="bd-feature-icon icon-3">
+                                    <i class="flaticon-friends"></i>
+                                 </div>
+                                 <h4 class="bd-feature-title">Inclusivity</h4>
+                                 <p>Creating a welcoming and diverse environment that celebrates differences and promotes inclusion.</p>
+                              </div>
+                           </div>
+                        </li>
+                        <li class="feature-item">
+                           <div class="bd-feature first-item">
+                              <div class="bd-feature-content">
+                                 <div class="bd-feature-icon icon-4">
+                                    <i class="flaticon-humanitarian-help"></i>
+                                 </div>
+                                 <h4 class="bd-feature-title">Empathy</h4>
+                                 <p>Fostering a caring and supportive community where empathy and understanding are emphasized.</p>
+                              </div>
+                           </div>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- feature area end here-->
+
+      <!-- promotion area start here  -->
+      <section class="bd-promotion-area-2 pt-120 pb-60 fix">
+         <div class="container">
+            <div class="row align-items-center">
+               <div class="col-xl-6 col-lg-6">
+                  <div class="bd-promotion bd-promotion-2 mb-60 wow fadeInLeft" data-wow-duration="1s"
+                     data-wow-delay=".3s">
+                     <div class="bd-section-title-wrapper mb-35">
+                        <h2 class="bd-section-title mb-10">All Kids Welcome: A Friendly Atmosphere</h2>
+                        <span class="mb-10 d-inline-block">
+                           At Widewings Preschool, we believe that every child deserves a friendly and nurturing environment to learn and grow.
+
+                        </span>
+                        <p>We understand that each child is unique, with their own interests, strengths, and challenges. That's why we provide personalized care and attention to ensure that every child receives the support they need to thrive.
+                        </p>
+                     </div>
+                     <div class="bd-promotion-list-2">
+                        <ul>
+                           <li>
+                              <div class="bd-promotion-icon">
+                                 <i class="flaticon-exclusive theme-bg-2"></i>
+                              </div>
+                              <span>4 Hrs Sessions</span>
+                           </li>
+                           <li>
+                              <div class="bd-promotion-icon">
+                                 <i class="flaticon-whiteboard theme-bg"></i>
+                              </div>
+                              <span>Varied Classes</span>
+                           </li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-6 ms-auto col-lg-6">
+                  <div class="bd-promotion-thumb-wrapper mb-60 wow fadeInRight" data-wow-duration="1s"
+                     data-wow-delay=".3s">
+                     <div class="bd-promotion-thumb">
+                        <div class="bd-promotion-thumb-mask p-relative">
+                           <img src="assets/img/promotion/2.png" alt="Image not found">
+                           <div class="panel-2 wow"></div>
+                        </div>
+                     </div>
+                     <div class="bd-promotion-shape d-none d-lg-block">
+                        <img src="assets/img/shape/tripple-line.png" alt="Shape not found">
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- promotion area end here  -->
+
+      <!--#include file="parents-say.shtml"-->
+
+      <!--#include file="best-teacher.shtml"-->
+
+      <!-- counter area start here  -->
+      <!-- <div class="bd-counter-area-2 pb-90">
+         <div class="container">
+            <div class="row justify-content-center">
+               <div class="col-lg-4 col-md-10 col-sm-10">
+                  <div class="bd-counter-2 mb-30">
+                     <div class="bd-counter-2-icon">
+                        <i class="flaticon-user-interface"></i>
+                     </div>
+                     <div class="bd-counter-2-content">
+                        <div class="bd-counter-2-number">
+                           <span class="odometer" data-count="14">14</span><span>+</span>
+                        </div>
+                        <div class="bd-counter-2-text">
+                           <span>years of
+                              <br>experience</span>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-10 col-sm-10">
+                  <div class="bd-counter-2 mb-30">
+                     <div class="bd-counter-2-icon">
+                        <i class="flaticon-reading"></i>
+                     </div>
+                     <div class="bd-counter-2-content">
+                        <div class="bd-counter-2-number">
+                           <span class="odometer" data-count="7">7</span><span>K+</span>
+                        </div>
+                        <div class="bd-counter-2-text">
+                           <span>Students
+                              <br>each year</span>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-10 col-sm-10">
+                  <div class="bd-counter-2 mb-30">
+                     <div class="bd-counter-2-icon">
+                        <i class="flaticon-badge"></i>
+                     </div>
+                     <div class="bd-counter-2-content">
+                        <div class="bd-counter-2-number">
+                           <span class="odometer" data-count="15">15</span><span>+</span>
+                        </div>
+                        <div class="bd-counter-2-text">
+                           <span>Award
+                              <br> Wining</span>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div> -->
+      <!-- counter area end here  -->
+
+      <!-- newsletter area end here  -->
+   </main>
+   <!-- main area end here  -->
+
+   <!--#include file="footer.shtml"-->
+</body>
+
+</html>

@@ -1,0 +1,761 @@
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<head>
+   <meta charset="utf-8">
+   <meta http-equiv="x-ua-compatible" content="ie=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <title>Welcome to Widewings Preschool | Ranavav Near Porbandar</title>
+   <meta name="title" content="Welcome to Widewings Preschool | Ranavav Near Porbandar">
+   <meta name="description" content="Discover a nurturing environment for early childhood development at Widewings Preschool in Ranavav, near Porbandar. Enroll your child today!">
+  
+   <!-- Place favicon.ico in the root directory -->
+   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+
+   <!-- CSS here -->
+   <link rel="stylesheet" href="assets/css/bootstrap.css">
+   <link rel="stylesheet" href="assets/css/meanmenu.css">
+   <link rel="stylesheet" href="assets/css/animate.min.css">
+   <link rel="stylesheet" href="assets/css/swiper-bundle.css">
+   <link rel="stylesheet" href="assets/css/slick.css">
+   <link rel="stylesheet" href="assets/css/nouislider.css">
+   <link rel="stylesheet" href="assets/css/backtotop.css">
+   <link rel="stylesheet" href="assets/css/magnific-popup.css">
+   <link rel="stylesheet" href="assets/css/nice-select.css">
+   <link rel="stylesheet" href="assets/css/flaticon_Widewings.css">
+   <link rel="stylesheet" href="assets/css/font-awesome-pro.css">
+   <link rel="stylesheet" href="assets/css/spacing.css">
+   <link rel="stylesheet" href="assets/css/main.css">
+</head>
+
+<body>
+
+   <!--#include file="header.shtml"-->
+
+   <!-- main area start here  -->
+   <main>
+      <!-- hero area start here  -->
+      <section class="bd-hero-area bd-hero-area-3 fix">
+
+         <!-- hero area bg here  -->
+         <div class="bd-gradient-bg"></div>
+
+         <!-- hero area side social  -->
+         <div class="bd-hero-social-wrapper">
+            <div class="bd-hero-social">
+               <a href="https://www.facebook.com/WideWingsPreSchool/"><i class="fa-brands fa-facebook-f"></i>facebook</a>
+            </div>
+            <div class="bd-hero-social">
+               <a href="https://www.instagram.com/wide_wings_preschool/"><i class="fa-brands fa-instagram"></i>instagram</a>
+            </div>
+         </div>
+         <div class="container">
+            <div class="bd-hero-inner-3">
+               <div class="bd-hero-shape-wrapper d-none d-lg-block">
+                  <div class="bd-hero-3-shape-2">
+                     <img src="assets/img/shape/curved-line-2.png" alt="Shape not found">
+                  </div>
+               </div>
+               <div class="row align-items-center">
+                  <div class="col-lg-7 col-md-6">
+                     <div class="bd-hero-content">
+                        <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Your Preschool Journey Starts Here</span>
+                        <h1 class="bd-hero-title wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
+                           Welcome to Widewings Preschool
+                        </h1>
+                        <div class="bd-hero-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">
+                           <a href="contact.shtml" class="bd-btn">
+                              <span class="bd-btn-inner">
+                                 <span class="bd-btn-normal">Admission open 24-25</span>
+                                 <span class="bd-btn-hover">Admission open 24-25</span>
+                              </span>
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-lg-5 col-md-6">
+                     <div id="scene">
+                        <div class="bd-hero-thumb-3-wrapper p-relative z-index-1" data-depth=".4">
+                           <div class="bd-hero-thumb-3 p-relative">
+                              <div class="bd-hero-thumb-3-mask">
+                                 <img src="assets/img/hero/hero-3.png" alt="img not found!">
+                              </div>
+                           </div>
+                           <div class="bd-hero-thumb-3-shape d-none d-md-block">
+                              <div class="bd-hero-thumb-3-shape-1 p-absolute">
+                                 <img src="assets/img/shape/home-3-shape-1.png" alt="img not found!">
+                              </div>
+                              <div class="bd-hero-thumb-3-shape-2 p-absolute">
+                                 <img src="assets/img/shape/home-3-shape-2.png" alt="img not found!">
+                              </div>
+                              <div class="bd-hero-thumb-3-shape-3 p-absolute">
+                                 <img src="assets/img/shape/home-3-shape-3.png" alt="img not found!">
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="bd-hero-3-shape d-none d-lg-block" id="scene2">
+            <img data-depth=".5" src="assets/img/shape/hero-3-shape-4.png" alt="img not found!">
+         </div>
+      </section>
+      <!-- hero area end here  -->
+
+      <!-- class area start here -->
+      <section class="bd-class-area pt-110 pb-120">
+         <div class="container">
+            <div class="row justify-content-center">
+               <div class="col-lg-8">
+                  <div class="bd-section-title-wrapper text-center mb-55 wow fadeInUp" data-wow-duration="1s"
+                     data-wow-delay=".2s">
+                     <h2 class="bd-section-title mb-0">Our Facilities</h2>
+                     <p>Our facilities provide safe, stimulating spaces for learning and play, featuring modern infrastructure, CCTV security, and 24x7 support.</p>
+                  </div>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-12">
+                  <div class="bd-class-active swiper-container wow fadeInUp" data-wow-duration="1s"
+                     data-wow-delay=".4s">
+                     <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                           <div class="bd-class-wrapper text-center">
+                              <!-- bd-class-bg here -->
+                              <!-- <div class="bd-class-bg">
+                                 <img src="assets/img/bg/bg-shape.jpg" alt="img not found!">
+                              </div> -->
+                              <div class="bd-class">
+                                 <div class="bd-class-icon">
+                                    <i class="fa-regular fa-chalkboard"></i>
+                                 </div>
+                                 <div class="bd-class-content">
+                                    <h3 class="bd-class-title">Activity Based<br> Learning</h3>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="swiper-slide">
+                           <div class="bd-class-wrapper text-center">
+                              <!-- bd-class-bg here -->
+                              <!-- <div class="bd-class-bg">
+                                 <img src="assets/img/bg/bg-shape.jpg" alt="img not found!">
+                              </div> -->
+                              <div class="bd-class text-center">
+                                 <div class="bd-class-icon">
+                                    <i class="fa-regular fa-palette"></i>
+                                 </div>
+                                 <div class="bd-class-content">
+                                    <h3 class="bd-class-title">Art & Craft<br> Space</h3>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="swiper-slide">
+                           <div class="bd-class-wrapper text-center">
+                              <!-- bd-class-bg here -->
+                              <!-- <div class="bd-class-bg">
+                                 <img src="assets/img/bg/bg-shape.jpg" alt="img not found!">
+                              </div> -->
+                              <div class="bd-class text-center">
+                                 <div class="bd-class-icon">
+                                    <i class="fa-regular fa-camera-cctv"></i>
+                                 </div>
+                                 <div class="bd-class-content">
+                                    <h3 class="bd-class-title">CCTV<br> Cameras</h3>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="swiper-slide">
+                           <div class="bd-class-wrapper text-center">
+                              <!-- bd-class-bg here -->
+                              <!-- <div class="bd-class-bg">
+                                 <img src="assets/img/bg/bg-shape.jpg" alt="img not found!">
+                              </div> -->
+                              <div class="bd-class text-center">
+                                 <div class="bd-class-icon">
+                                    <i class="fa-regular fa-headset"></i>
+                                 </div>
+                                 <div class="bd-class-content">
+                                    <h3 class="bd-class-title">24x7<br> Support</h3>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="swiper-slide">
+                           <div class="bd-class-wrapper text-center">
+                              <!-- bd-class-bg here -->
+                              <!-- <div class="bd-class-bg">
+                                 <img src="assets/img/bg/bg-shape.jpg" alt="img not found!">
+                              </div> -->
+                              <div class="bd-class text-center">
+                                 <div class="bd-class-icon">
+                                    <i class="fa-regular fa-music"></i>
+                                 </div>
+                                 <div class="bd-class-content">
+                                    <h3 class="bd-class-title">Music & Dance<br> Studio</h3>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="swiper-slide">
+                           <div class="bd-class-wrapper text-center">
+                              <!-- bd-class-bg here -->
+                              <!-- <div class="bd-class-bg">
+                                 <img src="assets/img/bg/bg-shape.jpg" alt="img not found!">
+                              </div> -->
+                              <div class="bd-class text-center">
+                                 <div class="bd-class-icon">
+                                    <i class="fa-regular fa-book"></i>
+                                 </div>
+                                 <div class="bd-class-content">
+                                    <h3 class="bd-class-title">Library & Smart Classroom</h3>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="swiper-slide">
+                           <div class="bd-class-wrapper text-center">
+                              <!-- bd-class-bg here -->
+                              <!-- <div class="bd-class-bg">
+                                 <img src="assets/img/bg/bg-shape.jpg" alt="img not found!">
+                              </div> -->
+                              <div class="bd-class text-center">
+                                 <div class="bd-class-icon">
+                                    <i class="fa-regular fa-fire-extinguisher"></i>
+                                 </div>
+                                 <div class="bd-class-content">
+                                    <h3 class="bd-class-title">Fire<br> Safety</h3>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="swiper-slide">
+                           <div class="bd-class-wrapper text-center">
+                              <!-- bd-class-bg here -->
+                              <!-- <div class="bd-class-bg">
+                                 <img src="assets/img/bg/bg-shape.jpg" alt="img not found!">
+                              </div> -->
+                              <div class="bd-class text-center">
+                                 <div class="bd-class-icon">
+                                    <i class="fa-regular fa-bench-tree"></i>
+                                 </div>
+                                 <div class="bd-class-content">
+                                    <h3 class="bd-class-title">Wide Play<br> Park</h3>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="swiper-slide">
+                           <div class="bd-class-wrapper text-center">
+                              <!-- bd-class-bg here -->
+                              <!-- <div class="bd-class-bg">
+                                 <img src="assets/img/bg/bg-shape.jpg" alt="img not found!">
+                              </div> -->
+                              <div class="bd-class text-center">
+                                 <div class="bd-class-icon">
+                                    <i class="fa-regular fa-pot-food"></i>
+                                 </div>
+                                 <div class="bd-class-content">
+                                    <h3 class="bd-class-title">Food<br> literacy</h3>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="swiper-slide">
+                           <div class="bd-class-wrapper text-center">
+                              <!-- bd-class-bg here -->
+                              <!-- <div class="bd-class-bg">
+                                 <img src="assets/img/bg/bg-shape.jpg" alt="img not found!">
+                              </div> -->
+                              <div class="bd-class text-center">
+                                 <div class="bd-class-icon">
+                                    <i class="fa-regular fa-notes-medical"></i>
+                                 </div>
+                                 <div class="bd-class-content">
+                                    <h3 class="bd-class-title">Health & Cleanliness<br> Guidance</h3>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="swiper-slide">
+                           <div class="bd-class-wrapper text-center">
+                              <!-- bd-class-bg here -->
+                              <!-- <div class="bd-class-bg">
+                                 <img src="assets/img/bg/bg-shape.jpg" alt="img not found!">
+                              </div> -->
+                              <div class="bd-class text-center">
+                                 <div class="bd-class-icon">
+                                    <i class="fa-regular fa-van-shuttle"></i>
+                                 </div>
+                                 <div class="bd-class-content">
+                                    <h3 class="bd-class-title">Transportation</h3>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- slider dots pagination -->
+                  <div class="bd-class-pagination bd-dots-pagination"></div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- class area end here -->
+
+      <!-- promotion area start here  -->
+      <section class="bd-promotion-area pb-60" id="bd-promotion-area">
+         <div class="container">
+            <div class="row align-items-center">
+               <div class="col-xl-5 col-lg-6">
+                  <div class="bd-promotion-thumb-wrapper mb-60 wow fadeInLeft" data-wow-duration="1s"
+                     data-wow-delay=".2s">
+                     <div class="bd-promotion-thumb">
+                        <div class="bd-promotion-thumb-mask p-relative wow fadeInLeft" data-wow-duration="1s"
+                           data-wow-delay=".3s">
+                           <img src="assets/img/promotion/1.png" alt="Image not found">
+                           <div class="panel wow"></div>
+                        </div>
+                     </div>
+                     <div class="bd-promotion-shape d-none d-lg-block">
+                        <img src="assets/img/shape/tripple-line.png" alt="Shape not found">
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-6 col-lg-6 ms-auto">
+                  <div class="bd-promotion mb-60 wow fadeInRight" data-wow-duration="1s" data-wow-delay=".3s">
+                     <div class="bd-section-title-wrapper mb-35">
+                        <h2 class="bd-section-title mb-10">Our Tutor</h2>
+                        <p>At Widewings Pre-School, we believe in nurturing young minds and fostering a love for learning in a safe and stimulating environment. Our dedicated team of educators is committed to providing a holistic approach to early childhood education, ensuring every child receives the best start to their educational journey.
+                        </p>
+                     </div>
+                     <!-- <div class="bd-promotion-counter-wrapper mb-40">
+                        <div class="bd-promotion-counter">
+                           <div class="bd-promotion-counter-number">
+                              <p><span class="counter">14</span>+</p>
+                           </div>
+                           <div class="bd-promotion-counter-text">
+                              <span>Years of</span>
+                              <span>experience</span>
+                           </div>
+                        </div>
+                        <div class="bd-promotion-counter">
+                           <div class="bd-promotion-counter-number">
+                              <p><span><span class="counter">7</span>K</span>+</p>
+                           </div>
+                           <div class="bd-promotion-counter-text">
+                              <span>Students</span>
+                              <span>each year</span>
+                           </div>
+                        </div>
+                        <div class="bd-promotion-counter">
+                           <div class="bd-promotion-counter-number">
+                              <p><span class="counter">15</span>+</p>
+                           </div>
+                           <div class="bd-promotion-counter-text">
+                              <span>Award</span>
+                              <span>Wining</span>
+                           </div>
+                        </div>
+                     </div> -->
+                     <div class="bd-promotion-list mb-50">
+                        <ul>
+                           <li>Customized learning strategies for every child at Widewings Pre-School.</li>
+                           <li>Hands-on experiences encourage growth and learning.</li>
+                        </ul>
+                     </div>
+                     <div class="bd-promotion-btn-wrapper flex-wrap">
+                        <div class="bd-promotion-btn">
+                           <a href="about.shtml" class="bd-btn">
+                              <span class="bd-btn-inner">
+                                 <span class="bd-btn-normal">View More</span>
+                                 <span class="bd-btn-hover">View More</span>
+                              </span>
+                           </a>
+                        </div>
+                        <!-- <div class="bd-promotion-btn-2 bd-pulse-btn btn-2">
+                           <a href="https://www.youtube.com/watch?v=l62SIcbCPwo" class="popup-video"><i
+                                 class="flaticon-play-button"></i> Promotional Video</a>
+                        </div> -->
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- promotion area end here  -->
+
+      <!-- program area start here  -->
+      <section class="bd-program-area pt-120 pb-120">
+         <div class="container">
+            <!-- program bg -->
+            <div class="bd-gradient-bg"></div>
+            <div class="row justify-content-center">
+               <div class="col-lg-9">
+                  <div class="bd-section-title-wrapper text-center mb-55 wow fadeInUp" data-wow-duration="1s"
+                     data-wow-delay=".2s">
+                     <h2 class="bd-section-title mb-0">Our Programs</h2>
+                     <p>Our Toddler Program introduces structured learning for early socialization. The Nursery, Junior KG, and Senior KG Programs prepare children for primary school with age-appropriate curriculum.</p>
+                  </div>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-12">
+                  <div class="bd-program-active swiper-container wow fadeInUp" data-wow-duration="1s"
+                     data-wow-delay=".4s">
+                     <div class="swiper-wrapper">
+                        
+                        <div class="swiper-slide">
+                           <div class="bd-program">
+                              <div class="bd-program-thumb-wrapper">
+                                 <a href="program-details.shtml">
+                                    <div class="bd-program-thumb">
+                                       <img src="assets/img/program/home-program-3.jpg" alt="Image not found">
+                                    </div>
+                                 </a>
+                              </div>
+                              <div class="bd-program-content mb-30">
+                                 <h4 class="bd-program-title"><a href="program-details.shtml"
+                                       class="hover-clr-3">Playgroup Program</a>
+                                 </h3>
+                                 <p>Our toddler program provides a nurturing and supportive
+                                    environment where children can explore and discover the world around them through sensory experiences, music, art, and interactive play.</p>
+                              </div>
+                              <div class="bd-program-info-wrapper theme-bg-8">
+                                 <div class="bd-program-info">
+                                    <h5 class="bd-program-info-title">2+ Yrs <br><span>age</span></h5>
+                                 </div>
+                                 <div class="bd-program-info">
+                                    <h5 class="bd-program-info-title">6 Days <br><span>weekly</span></h5>
+                                 </div>
+                                 <div class="bd-program-info">
+                                    <h5 class="bd-program-info-title">4 Hrs<br><span>period</span></h5>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="swiper-slide">
+                           <div class="bd-program">
+                              <div class="bd-program-thumb-wrapper">
+                                 <a href="program-details.shtml">
+                                    <div class="bd-program-thumb">
+                                       <img src="assets/img/program/home-program-4.jpg" alt="Image not found">
+                                    </div>
+                                 </a>
+                              </div>
+                              <div class="bd-program-content mb-30">
+                                 <h4 class="bd-program-title"><a class="hover-clr-1"
+                                       href="program-details.shtml">Nursery Program</a>
+                                 </h3>
+                                 <p>In our nursery program, children engage in structured activities
+                                    that promote language development, early literacy, numeracy skills, and social interaction. We emphasize hands-on learning and exploration to ignite a love for learning.</p>
+                              </div>
+                              <div class="bd-program-info-wrapper theme-bg-9">
+                                 <div class="bd-program-info">
+                                    <h5 class="bd-program-info-title">3+ Yrs <br><span>age</span></h5>
+                                 </div>
+                                 <div class="bd-program-info">
+                                    <h5 class="bd-program-info-title">6 Days <br><span>weekly</span></h5>
+                                 </div>
+                                 <div class="bd-program-info">
+                                    <h5 class="bd-program-info-title">4 Hrs<br><span>period</span></h5>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="swiper-slide">
+                           <div class="bd-program">
+                              <div class="bd-program-thumb-wrapper">
+                                 <a href="program-details.shtml">
+                                    <div class="bd-program-thumb">
+                                       <img src="assets/img/program/home-program-5.jpg" alt="Image not found">
+                                    </div>
+                                 </a>
+                              </div>
+                              <div class="bd-program-content mb-30">
+                                 <h4 class="bd-program-title"><a class="hover-clr-2" href="program-details.shtml">Junior KG Program</a>
+                                 </h3>
+                                 <p>Our Junior KG program focuses on preparing children for primary
+                                    school by developing their language, math, science, and social skills. Through thematic units and
+                                    project-based learning, children develop a deeper understanding of the world.</p>
+                              </div>
+                              <div class="bd-program-info-wrapper theme-bg-10">
+                                 <div class="bd-program-info">
+                                    <h5 class="bd-program-info-title">4+ Yrs <br><span>age</span></h5>
+                                 </div>
+                                 <div class="bd-program-info">
+                                    <h5 class="bd-program-info-title">6 Days <br><span>weekly</span></h5>
+                                 </div>
+                                 <div class="bd-program-info">
+                                    <h5 class="bd-program-info-title">4 Hrs<br><span>period</span></h5>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="swiper-slide">
+                           <div class="bd-program">
+                              <div class="bd-program-thumb-wrapper">
+                                 <a href="program-details.shtml">
+                                    <div class="bd-program-thumb">
+                                       <img src="assets/img/program/home-program-6.jpg" alt="Image not found">
+                                    </div>
+                                 </a>
+                              </div>
+                              <div class="bd-program-content mb-30">
+                                 <h4 class="bd-program-title"><a href="program-details.shtml"
+                                       class="hover-clr-3">Senior KG Program</a>
+                                 </h3>
+                                 <p>Our Senior KG program prepares children for a smooth transition
+                                    to primary school. We focus on advanced literacy, numeracy, critical thinking, and problem-solving skills, ensuring children are confident and ready for academic challenges.</p>
+                              </div>
+                              <div class="bd-program-info-wrapper theme-bg-3">
+                                 <div class="bd-program-info">
+                                    <h5 class="bd-program-info-title">5+ Yrs <br><span>age</span></h5>
+                                 </div>
+                                 <div class="bd-program-info">
+                                    <h5 class="bd-program-info-title">6 Days <br><span>weekly</span></h5>
+                                 </div>
+                                 <div class="bd-program-info">
+                                    <h5 class="bd-program-info-title">4 Hrs<br><span>period</span></h5>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="swiper-slide">
+                           <div class="bd-program">
+                              <div class="bd-program-thumb-wrapper">
+                                 <a href="program-details.shtml">
+                                    <div class="bd-program-thumb">
+                                       <img src="assets/img/program/home-program-7.jpg" alt="Image not found">
+                                    </div>
+                                 </a>
+                              </div>
+                              <div class="bd-program-content mb-30">
+                                 <h4 class="bd-program-title"><a class="hover-clr-8"
+                                       href="program-details.shtml">After School Activities</a>
+                                 </h3>
+                                 <p>Explore our Playgroup, Nursery, Junior KG, and Senior KG Programs tailored to your child's developmental stage. Enhance their learning journey with our diverse After School Activities.</p>
+                              </div>
+                              <div class="bd-program-info-wrapper theme-bg-2">
+                                 <div class="bd-program-info">
+                                    <h5 class="bd-program-info-title">3-10 Yrs <br><span>age</span></h5>
+                                 </div>
+                                 <div class="bd-program-info">
+                                    <h5 class="bd-program-info-title">6 Days <br><span>weekly</span></h5>
+                                 </div>
+                                 <div class="bd-program-info">
+                                    <h5 class="bd-program-info-title">4 Hrs<br><span>period</span></h5>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!-- program slider dots pagination  -->
+            <div class="bd-program-pagination bd-dots-pagination"></div>
+         </div>
+      </section>
+      <!-- program area end here -->
+
+      <!-- faq area start here  -->
+      <section class="bd-faq-area pt-120 pb-60">
+         <div class="container">
+            <div class="row align-items-center">
+               <div class="col-xl-6 col-lg-6">
+                  <div class="bd-faq-content mb-60">
+                     <div class="bd-section-title-wrapper mb-25 wow fadeInLeft" data-wow-duration="1s"
+                        data-wow-delay=".3s">
+                        <h2 class="bd-section-title mb-0">Know More
+                           <br>About Widewings
+                        </h2>
+                     </div>
+                     <div class="bd-faq wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">
+                        <div class="accordion" id="accordionExample">
+                           <div class="accordion-item">
+                              <h2 class="accordion-header" id="headingOne">
+                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    Our Vision:
+                                 </button>
+                              </h2>
+                              <div id="collapseOne" class="accordion-collapse collapse show"
+                                 aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                 <div class="accordion-body">
+                                    <p>At the core of Widewings Pre-School is the vision to create a world where each child's innate curiosity is celebrated, where learning is an adventure, and where every little wonder is recognized and cherished. We aspire to be the catalyst for building a strong foundation that empowers children to flourish academically, socially, and emotionally.</p>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="accordion-item">
+                              <h2 class="accordion-header" id="headingTwo">
+                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    Our Mission:
+                                 </button>
+                              </h2>
+                              <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                                 data-bs-parent="#accordionExample">
+                                 <div class="accordion-body">
+                                    <p>Widewings Pre-School is on a mission to provide an exceptional early childhood education experience. We strive to create a vibrant and inclusive environment where children feel valued, supported, and inspired to explore the wonders of the world around them. Our dedicated educators are committed to unlocking the unique potential in every child, guiding them through the exciting journey of discovery.</p>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="accordion-item">
+                              <h2 class="accordion-header" id="headingThree">
+                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Our Philosophy
+                                 </button>
+                              </h2>
+                              <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                                 data-bs-parent="#accordionExample">
+                                 <div class="accordion-body">
+                                    <p>We believe that every child is unique and has the potential to achieve greatness. Our curriculum is designed to cater to each child's individual needs, focusing on their cognitive, social, emotional, and physical development. Through play-based learning, we encourage curiosity, creativity, and critical thinking skills, preparing children for future success.</p>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-6 col-lg-6">
+                  <div class="bd-faq-thumb-wrapper mb-70 wow fadeInRight" data-wow-duration="1s" data-wow-delay=".3s">
+                     <div class="bd-faq-thumb">
+                        <div class="bd-faq-thumb-mask p-relative wow fadeInRight" data-wow-duration="1s"
+                           data-wow-delay=".3s">
+                           <img src="assets/img/faq/1.png" alt="Image not found">
+                           <div class="panel-2 wow"></div>
+                        </div>
+                     </div>
+                     <div class="bd-faq-shape d-none p-relative d-lg-block">
+                        <img src="assets/img/shape/tripple-line.png" alt="Shape not found">
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- faq area end here  -->
+
+      <!--#include file="join-session.shtml"-->
+
+     <!--#include file="best-teacher.shtml"-->
+
+      <!-- testimonial area start here  -->
+      <section class="bd-testimonial-area my-bg">
+         <div class="bd-testimonial-video" data-background="assets/img/bg/testimonail-bg.png" style="background-repeat: no-repeat;background-size: cover;">
+            <!-- <div class="bd-testimonial-video-btn bd-pulse-btn">
+               <a href="https://www.youtube.com/watch?v=INY3ETimTjg" class="popup-video"><i
+                     class="flaticon-play-button"></i></a>
+            </div> -->
+         </div>
+         <!-- <div class="bd-testimonial-bg d-none d-lg-block" data-background="assets/img/bg/bg-shape.jpg"></div> -->
+         <div class="container">
+            <div class="row justify-content-end align-items-center">
+               <div class="col-lg-6">
+                  <div class="bd-testimonial-wrapper pt-80 pb-80">
+                     <div class="bd-section-title-wrapper  mb-20 wow fadeInUp" data-wow-duration="1s"
+                        data-wow-delay=".3s">
+                        <h2 class="bd-section-title mb-0">Parents Says</h2>
+                     </div>
+                     <div class="bd-testimonial-active swiper-container wow fadeInUp" data-wow-duration="1s"
+                        data-wow-delay=".5s">
+                        <div class="swiper-wrapper">
+                           <div class="swiper-slide">
+                              <div class="bd-testimonial">
+                                 <div class="bd-testimonial-rating mb-30">
+                                    <a href="#"><i class="fas fa-star"></i></a>
+                                    <a href="#"><i class="fas fa-star"></i></a>
+                                    <a href="#"><i class="fas fa-star"></i></a>
+                                    <a href="#"><i class="fas fa-star"></i></a>
+                                    <a href="#"><i class="fas fa-star"></i></a>
+                                 </div>
+                                 <div class="bd-testimonial-content mb-55">
+                                    <p>We are so grateful for Widewings Pre-School! The personalized attention and care our child receives are unmatched. The teachers are dedicated, and the hands-on learning activities have truly sparked a love for learning in our little one!</p>
+                                 </div>
+                                 <div class="bd-testimonial-avatar d-flex align-items-center">
+                                    <!-- <div class="bd-testimonial-avatar-thumb">
+                                       <img src="assets/img/testimonials/1.png" alt="testimonial avatar">
+                                    </div> -->
+                                    <h6 class="bd-testimonial-avatar-title mb-0">Sanjay Mehta</h6>
+                                    <div class="bd-testimonial-quote">
+                                       <i class="flaticon-quote
+                                       "></i>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="swiper-slide">
+                              <div class="bd-testimonial">
+                                 <div class="bd-testimonial-rating mb-30">
+                                    <a href="#"><i class="fas fa-star"></i></a>
+                                    <a href="#"><i class="fas fa-star"></i></a>
+                                    <a href="#"><i class="fas fa-star"></i></a>
+                                    <a href="#"><i class="fas fa-star"></i></a>
+                                    <a href="#"><i class="fas fa-star"></i></a>
+                                 </div>
+                                 <div class="bd-testimonial-content mb-55">
+                                    <p>Widewings Pre-School has exceeded our expectations! The individualized learning plans have helped our child progress so much. The environment is safe and stimulating, and we couldn't be happier with our choice.</p>
+                                 </div>
+                                 <div class="bd-testimonial-avatar d-flex align-items-center">
+                                    <!-- <div class="bd-testimonial-avatar-thumb">
+                                       <img src="assets/img/testimonials/3.png" alt="testimonial avatar">
+                                    </div> -->
+                                    <h6 class="bd-testimonial-avatar-title mb-0">Pooja Sharma</h6>
+                                    <div class="bd-testimonial-quote">
+                                       <i class="flaticon-quote
+                                       "></i>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="swiper-slide">
+                              <div class="bd-testimonial">
+                                 <div class="bd-testimonial-rating mb-30">
+                                    <a href="#"><i class="fas fa-star"></i></a>
+                                    <a href="#"><i class="fas fa-star"></i></a>
+                                    <a href="#"><i class="fas fa-star"></i></a>
+                                    <a href="#"><i class="fas fa-star"></i></a>
+                                    <a href="#"><i class="fas fa-star"></i></a>
+                                 </div>
+                                 <div class="bd-testimonial-content mb-55">
+                                    <p>Widewings Pre-School has been a wonderful experience for our family. The staff is incredibly caring and attentive, and our child has thrived in their nurturing environment. The individualized learning plans have really helped our child progress academically and socially. We're so grateful to be a part of the Widewings community!</p>
+                                 </div>
+                                 <div class="bd-testimonial-avatar d-flex align-items-center">
+                                    <!-- <div class="bd-testimonial-avatar-thumb">
+                                       <img src="assets/img/testimonials/2.png" alt="testimonial avatar">
+                                    </div> -->
+                                    <h6 class="bd-testimonial-avatar-title mb-0">Nisha Gupta</h6>
+                                    <div class="bd-testimonial-quote">
+                                       <i class="flaticon-quote
+                                       "></i>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- slider dots pagination -->
+                     <div class="bd-testimonial-pagination bd-dots-pagination justify-content-start wow fadeInUp"
+                        data-wow-duration="1s" data-wow-delay=".4s"></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- testimonial area end here  -->
+
+
+      <!-- newsletter area end here  -->
+   </main>
+   <!-- main area end here  -->
+
+   <!--#include file="footer.shtml"-->
+</body>
+
+</html>
