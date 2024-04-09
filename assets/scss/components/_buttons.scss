@@ -22,7 +22,9 @@
 	$self: &;
 	@include transition(.5s);
 	text-transform: capitalize;
-
+	&:focus{
+		color: var(--bd-common-white);
+	}
 	&::before {
 		content: "";
 		background-color: var(--bd-theme-1);

@@ -123,7 +123,7 @@
                <div class="col-xl-6 mb-60">
                   <div class="bd-contact-form wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">
                      <h3 class="bd-contact-form-title mb-25">Contact Us Right Here</h3>
-                     <a href="#" class="bd-btn">
+                     <a href="https://docs.google.com/forms/d/e/1FAIpQLScLnEgI7O3GxcJ1WH5tQH1mddY9wzQS0Ldtv-WKhgek4u9L1A/viewform?usp=sf_link" class="bd-btn" target="_blank">
                         <span class="bd-btn-inner">
                            <span class="bd-btn-normal">Fill Form</span>
                            <span class="bd-btn-hover">Fill Form</span>
