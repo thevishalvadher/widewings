@@ -32,7 +32,10 @@
                          <div class="bd-footer-list">
                             <ul>
                                <li><a href="about.shtml">About</a></li>
+                               <li><a href="gallery.shtml">Gallery</a></li>
                                <!-- <li><a href="classes.shtml">Courses</a></li> -->
+                               <li><a href="faqs.shtml">FAQs</a></li>
+                               <li><a href="career.shtml">Career</a></li>
                                <li><a href="contact.shtml">Contact</a></li>
                             </ul>
                          </div>
@@ -61,7 +64,7 @@
                          <h4 class="bd-footer-widget-title mb-30">Contact Us</h4>
                          <div class="bd-footer-contact">
                             <ul>
-                               <li><i class="fa-light fa-location-dot"></i><a href="#">Khakhariya Bapa Temple Road, B/H Taluka Panchayat, Ranavav – 360550</a></li>
+                               <li><i class="fa-light fa-location-dot"></i><a target="_blank" href="https://www.google.com/maps?ll=21.684153,69.742201&z=16&t=m&hl=en&gl=IN&mapclient=embed&cid=12796138246177670595">Khakhariya Bapa Temple Road, B/H Taluka Panchayat, Ranavav – 360550</a></li>
                                <li><i class="fa-light fa-phone"></i><a href="tel:+919664967180">+91 9664967180</a></li>
                                <li><i class="fa-light fa-envelope"></i><a
                                      href="mailto:info@widewings.co.in">info@widewings.co.in</a></li>
@@ -88,6 +91,12 @@
     </div>
  </footer>
  <!-- footer area end -->
+
+
+ <!-- fixed whatsapp icon -->
+ <a href="https://api.whatsapp.com/send?phone=9664967180&text=I%27ve+reviewed+the+website+and+have+a+few+questions.+Can+you+help+clarify+them%3F" class="whatsapp-btn">
+   <img src="assets/img/social/whatsapp-icon.svg" class="whatsapp-btn__ic" alt="contact whatsapp">
+ </a>
 
  <!-- offcanvas area start -->
  <div class="offcanvas__area">

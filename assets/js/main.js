@@ -686,6 +686,9 @@ bdOnLoadAnim('bd-faq-area','active-anim','35%');
 		rtl: rtl_setting,
 		observeParents: true,
 		observer: true,
+		autoplay: {
+			delay: 3000,
+		},
 		//slider dots
 		pagination: {
 			el: '.bd-class-pagination',
@@ -739,7 +742,7 @@ bdOnLoadAnim('bd-faq-area','active-anim','35%');
 	var teacherSlider = new Swiper('.bd-teacher-active', {
 		slidesPerView: 1,
 		spaceBetween: 24,
-		loop: true,
+		// loop: true,
 		rtl: rtl_setting,
 		observeParents: true,
 		observer: true,

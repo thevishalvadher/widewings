@@ -13,7 +13,38 @@
           <div class="col-12">
              <div class="bd-teacher-active swiper-container wow fadeInLeft" data-wow-duration="1s"
                 data-wow-delay=".4s">
-                <div class="swiper-wrapper">
+                <div class="swiper-wrapper | justify-content-center">
+                  <div class="swiper-slide">
+                     <div class="bd-teacher">
+                        <a href="javascript:void(0)">
+                           <div class="bd-teacher-thumb">
+                              <img src="assets/img/teacher/1.jpg" alt="Image not found">
+                           </div>
+                        </a>
+                        <div class="bd-teacher-content-wrapper">
+                           <div class="bd-teacher-content">
+                              <h4 class="bd-teacher-title"><a href="javascript:void(0)">Khushbu Joshi</a></h4>
+                              <span class="bd-teacher-des">Teacher</span>
+                           </div>
+                           <!-- <div class="bd-teacher-social">
+                              <ul>
+                                 <li>
+                                    <a target="_blank" href="https://www.facebook.com/"><i
+                                          class="fa-brands fa-facebook-f"></i></a>
+                                 </li>
+                                 <li>
+                                    <a target="_blank" href="https://twitter.com/"><i
+                                          class="fa-brands fa-twitter"></i></a>
+                                 </li>
+                                 <li>
+                                    <a target="_blank" href="https://www.youtube.com/"><i
+                                          class="fa-brands fa-youtube"></i></a>
+                                 </li>
+                              </ul>
+                           </div> -->
+                        </div>
+                     </div>
+                  </div>
                    <div class="swiper-slide">
                       <div class="bd-teacher">
                          <a href="javascript:void(0)">
@@ -23,7 +54,7 @@
                          </a>
                          <div class="bd-teacher-content-wrapper">
                             <div class="bd-teacher-content">
-                               <h4 class="bd-teacher-title"><a href="javascript:void(0)">Priya Sharma</a></h4>
+                               <h4 class="bd-teacher-title"><a href="javascript:void(0)">Hetvi Modha</a></h4>
                                <span class="bd-teacher-des">Teacher</span>
                             </div>
                             <!-- <div class="bd-teacher-social">
@@ -54,69 +85,7 @@
                          </a>
                          <div class="bd-teacher-content-wrapper">
                             <div class="bd-teacher-content">
-                               <h4 class="bd-teacher-title"><a href="javascript:void(0)">Minal Patel</a></h4>
-                               <span class="bd-teacher-des">Teacher</span>
-                            </div>
-                            <!-- <div class="bd-teacher-social">
-                               <ul>
-                                  <li>
-                                     <a target="_blank" href="https://www.facebook.com/"><i
-                                           class="fa-brands fa-facebook-f"></i></a>
-                                  </li>
-                                  <li>
-                                     <a target="_blank" href="https://twitter.com/"><i
-                                           class="fa-brands fa-twitter"></i></a>
-                                  </li>
-                                  <li>
-                                     <a target="_blank" href="https://www.youtube.com/"><i
-                                           class="fa-brands fa-youtube"></i></a>
-                                  </li>
-                               </ul>
-                            </div> -->
-                         </div>
-                      </div>
-                   </div>
-                   <div class="swiper-slide">
-                      <div class="bd-teacher">
-                         <a href="javascript:void(0)">
-                            <div class="bd-teacher-thumb">
-                               <img src="assets/img/teacher/1.jpg" alt="Image not found">
-                            </div>
-                         </a>
-                         <div class="bd-teacher-content-wrapper">
-                            <div class="bd-teacher-content">
-                               <h4 class="bd-teacher-title"><a href="javascript:void(0)">Diya Shah</a></h4>
-                               <span class="bd-teacher-des">Teacher</span>
-                            </div>
-                            <!-- <div class="bd-teacher-social">
-                               <ul>
-                                  <li>
-                                     <a target="_blank" href="https://www.facebook.com/"><i
-                                           class="fa-brands fa-facebook-f"></i></a>
-                                  </li>
-                                  <li>
-                                     <a target="_blank" href="https://twitter.com/"><i
-                                           class="fa-brands fa-twitter"></i></a>
-                                  </li>
-                                  <li>
-                                     <a target="_blank" href="https://www.youtube.com/"><i
-                                           class="fa-brands fa-youtube"></i></a>
-                                  </li>
-                               </ul>
-                            </div> -->
-                         </div>
-                      </div>
-                   </div>
-                   <div class="swiper-slide">
-                      <div class="bd-teacher">
-                         <a href="javascript:void(0)">
-                            <div class="bd-teacher-thumb">
-                               <img src="assets/img/teacher/1.jpg" alt="Image not found">
-                            </div>
-                         </a>
-                         <div class="bd-teacher-content-wrapper">
-                            <div class="bd-teacher-content">
-                               <h4 class="bd-teacher-title"><a href="javascript:void(0)">Hetal Trivedi</a></h4>
+                               <h4 class="bd-teacher-title"><a href="javascript:void(0)">Janavi Narela</a></h4>
                                <span class="bd-teacher-des">Teacher</span>
                             </div>
                             <!-- <div class="bd-teacher-social">

@@ -16,3 +16,42 @@
 .bd-testimonial-area.my-bg{
    background-color: #fafafa;
 }
+
+.mega-menu{
+    a.mean-expand{
+        display: none !important;
+    }
+}
+
+.whatsapp-btn{
+    position: fixed;
+    display: inline-flex;
+    right: 40px;
+    z-index: 9;
+    bottom: 40px;
+}
+.progress-wrap{
+    left: 40px;
+    bottom: 40px;
+}
+.progress-wrap.active-progress{
+    bottom: 40px;
+}
+.whatsapp-btn__ic{
+    height: 40px;
+    width: 40px;
+}
+
+@media (max-width:767px){
+    .whatsapp-btn{
+        right: 20px;
+        bottom: 20px;
+    }
+    .progress-wrap{
+        left: 20px;
+        bottom: 20px;
+    }
+    .progress-wrap.active-progress{
+        bottom: 20px;
+    }
+}

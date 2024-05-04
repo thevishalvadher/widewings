@@ -11,7 +11,8 @@
   
    <!-- Place favicon.ico in the root directory -->
    <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
-
+   <link rel="icon" href="favicon.ico">
+   
    <!-- CSS here -->
    <link rel="stylesheet" href="assets/css/bootstrap.css">
    <link rel="stylesheet" href="assets/css/meanmenu.css">
@@ -61,13 +62,13 @@
                      <div class="bd-hero-content">
                         <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Your Preschool Journey Starts Here</span>
                         <h1 class="bd-hero-title wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
-                           Welcome to Widewings Preschool
+                           Welcome to Widewings<br> Pre-School
                         </h1>
                         <div class="bd-hero-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">
                            <a href="contact.shtml" class="bd-btn">
                               <span class="bd-btn-inner">
-                                 <span class="bd-btn-normal">Admission open 24-25</span>
-                                 <span class="bd-btn-hover">Admission open 24-25</span>
+                                 <span class="bd-btn-normal">Admission Open</span>
+                                 <span class="bd-btn-hover">Admission Open</span>
                               </span>
                            </a>
                         </div>
@@ -412,14 +413,14 @@
                         <div class="swiper-slide">
                            <div class="bd-program">
                               <div class="bd-program-thumb-wrapper">
-                                 <a href="program-details.shtml">
+                                 <a href="playgroup.shtml">
                                     <div class="bd-program-thumb">
                                        <img src="assets/img/program/home-program-3.jpg" alt="Image not found">
                                     </div>
                                  </a>
                               </div>
                               <div class="bd-program-content mb-30">
-                                 <h4 class="bd-program-title"><a href="program-details.shtml"
+                                 <h4 class="bd-program-title"><a href="playgroup.shtml"
                                        class="hover-clr-3">Playgroup Program</a>
                                  </h3>
                                  <p>Our toddler program provides a nurturing and supportive
@@ -441,7 +442,7 @@
                         <div class="swiper-slide">
                            <div class="bd-program">
                               <div class="bd-program-thumb-wrapper">
-                                 <a href="program-details.shtml">
+                                 <a href="nursery.shtml">
                                     <div class="bd-program-thumb">
                                        <img src="assets/img/program/home-program-4.jpg" alt="Image not found">
                                     </div>
@@ -449,7 +450,7 @@
                               </div>
                               <div class="bd-program-content mb-30">
                                  <h4 class="bd-program-title"><a class="hover-clr-1"
-                                       href="program-details.shtml">Nursery Program</a>
+                                       href="nursery.shtml">Nursery Program</a>
                                  </h3>
                                  <p>In our nursery program, children engage in structured activities
                                     that promote language development, early literacy, numeracy skills, and social interaction. We emphasize hands-on learning and exploration to ignite a love for learning.</p>
@@ -470,14 +471,14 @@
                         <div class="swiper-slide">
                            <div class="bd-program">
                               <div class="bd-program-thumb-wrapper">
-                                 <a href="program-details.shtml">
+                                 <a href="junior-kg.shtml">
                                     <div class="bd-program-thumb">
                                        <img src="assets/img/program/home-program-5.jpg" alt="Image not found">
                                     </div>
                                  </a>
                               </div>
                               <div class="bd-program-content mb-30">
-                                 <h4 class="bd-program-title"><a class="hover-clr-2" href="program-details.shtml">Junior KG Program</a>
+                                 <h4 class="bd-program-title"><a class="hover-clr-2" href="junior-kg.shtml">Junior KG Program</a>
                                  </h3>
                                  <p>Our Junior KG program focuses on preparing children for primary
                                     school by developing their language, math, science, and social skills. Through thematic units and
@@ -499,14 +500,14 @@
                         <div class="swiper-slide">
                            <div class="bd-program">
                               <div class="bd-program-thumb-wrapper">
-                                 <a href="program-details.shtml">
+                                 <a href="senior-kg.shtml">
                                     <div class="bd-program-thumb">
                                        <img src="assets/img/program/home-program-6.jpg" alt="Image not found">
                                     </div>
                                  </a>
                               </div>
                               <div class="bd-program-content mb-30">
-                                 <h4 class="bd-program-title"><a href="program-details.shtml"
+                                 <h4 class="bd-program-title"><a href="senior-kg.shtml"
                                        class="hover-clr-3">Senior KG Program</a>
                                  </h3>
                                  <p>Our Senior KG program prepares children for a smooth transition
@@ -528,7 +529,7 @@
                         <div class="swiper-slide">
                            <div class="bd-program">
                               <div class="bd-program-thumb-wrapper">
-                                 <a href="program-details.shtml">
+                                 <a href="after-school-activities.shtml">
                                     <div class="bd-program-thumb">
                                        <img src="assets/img/program/home-program-7.jpg" alt="Image not found">
                                     </div>
@@ -536,7 +537,7 @@
                               </div>
                               <div class="bd-program-content mb-30">
                                  <h4 class="bd-program-title"><a class="hover-clr-8"
-                                       href="program-details.shtml">After School Activities</a>
+                                       href="after-school-activities.shtml">After School Activities</a>
                                  </h3>
                                  <p>Explore our Playgroup, Nursery, Junior KG, and Senior KG Programs tailored to your child's developmental stage. Enhance their learning journey with our diverse After School Activities.</p>
                               </div>
@@ -647,14 +648,14 @@
      <!--#include file="best-teacher.shtml"-->
 
       <!-- testimonial area start here  -->
-      <section class="bd-testimonial-area my-bg">
+      <!-- <section class="bd-testimonial-area my-bg">
          <div class="bd-testimonial-video" data-background="assets/img/bg/testimonail-bg.png" style="background-repeat: no-repeat;background-size: cover;">
-            <!-- <div class="bd-testimonial-video-btn bd-pulse-btn">
+            <div class="bd-testimonial-video-btn bd-pulse-btn">
                <a href="https://www.youtube.com/watch?v=INY3ETimTjg" class="popup-video"><i
                      class="flaticon-play-button"></i></a>
-            </div> -->
+            </div>
          </div>
-         <!-- <div class="bd-testimonial-bg d-none d-lg-block" data-background="assets/img/bg/bg-shape.jpg"></div> -->
+         <div class="bd-testimonial-bg d-none d-lg-block" data-background="assets/img/bg/bg-shape.jpg"></div>
          <div class="container">
             <div class="row justify-content-end align-items-center">
                <div class="col-lg-6">
@@ -679,9 +680,9 @@
                                     <p>We are so grateful for Widewings Pre-School! The personalized attention and care our child receives are unmatched. The teachers are dedicated, and the hands-on learning activities have truly sparked a love for learning in our little one!</p>
                                  </div>
                                  <div class="bd-testimonial-avatar d-flex align-items-center">
-                                    <!-- <div class="bd-testimonial-avatar-thumb">
+                                    <div class="bd-testimonial-avatar-thumb">
                                        <img src="assets/img/testimonials/1.png" alt="testimonial avatar">
-                                    </div> -->
+                                    </div>
                                     <h6 class="bd-testimonial-avatar-title mb-0">Sanjay Mehta</h6>
                                     <div class="bd-testimonial-quote">
                                        <i class="flaticon-quote
@@ -703,9 +704,9 @@
                                     <p>Widewings Pre-School has exceeded our expectations! The individualized learning plans have helped our child progress so much. The environment is safe and stimulating, and we couldn't be happier with our choice.</p>
                                  </div>
                                  <div class="bd-testimonial-avatar d-flex align-items-center">
-                                    <!-- <div class="bd-testimonial-avatar-thumb">
+                                    <div class="bd-testimonial-avatar-thumb">
                                        <img src="assets/img/testimonials/3.png" alt="testimonial avatar">
-                                    </div> -->
+                                    </div>
                                     <h6 class="bd-testimonial-avatar-title mb-0">Pooja Sharma</h6>
                                     <div class="bd-testimonial-quote">
                                        <i class="flaticon-quote
@@ -727,9 +728,9 @@
                                     <p>Widewings Pre-School has been a wonderful experience for our family. The staff is incredibly caring and attentive, and our child has thrived in their nurturing environment. The individualized learning plans have really helped our child progress academically and socially. We're so grateful to be a part of the Widewings community!</p>
                                  </div>
                                  <div class="bd-testimonial-avatar d-flex align-items-center">
-                                    <!-- <div class="bd-testimonial-avatar-thumb">
+                                    <div class="bd-testimonial-avatar-thumb">
                                        <img src="assets/img/testimonials/2.png" alt="testimonial avatar">
-                                    </div> -->
+                                    </div>
                                     <h6 class="bd-testimonial-avatar-title mb-0">Nisha Gupta</h6>
                                     <div class="bd-testimonial-quote">
                                        <i class="flaticon-quote
@@ -740,14 +741,13 @@
                            </div>
                         </div>
                      </div>
-                     <!-- slider dots pagination -->
                      <div class="bd-testimonial-pagination bd-dots-pagination justify-content-start wow fadeInUp"
                         data-wow-duration="1s" data-wow-delay=".4s"></div>
                   </div>
                </div>
             </div>
          </div>
-      </section>
+      </section> -->
       <!-- testimonial area end here  -->
 
 
