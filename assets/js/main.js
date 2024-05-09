@@ -743,6 +743,9 @@ bdOnLoadAnim('bd-faq-area','active-anim','35%');
 		slidesPerView: 1,
 		spaceBetween: 24,
 		// loop: true,
+		autoplay: {
+			delay: 4000,
+		},
 		rtl: rtl_setting,
 		observeParents: true,
 		observer: true,
@@ -774,7 +777,10 @@ bdOnLoadAnim('bd-faq-area','active-anim','35%');
 		rtl: rtl_setting,
 		observeParents: true,
 		observer: true,
-		loop: true,
+		// loop: true,
+		autoplay: {
+			delay: 4000,
+		},
 		//slider dots
 		pagination: {
 			el: '.bd-program-pagination',

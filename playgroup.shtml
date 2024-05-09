@@ -9,8 +9,15 @@
    <meta name="title" content="Playgroup Program | Widewings Preschool | Ranavav Near Porbandar">
    <meta name="description" content="Our Playgroup Program at Widewings Preschool in Ranavav, near Porbandar, is designed to provide a fun and nurturing environment for toddlers to explore, learn, and grow. Enroll your child today to give them a great start to their educational journey!">
 
-   <!-- Place favicon.ico in the root directory -->
-   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+   <!-- ICO favicon with multiple sizes -->
+   <link rel="icon" type="image/x-icon" href="favicon.ico">
+    
+   <!-- PNG favicons for specific sizes -->
+   <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+   <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+   <link rel="icon" type="image/png" sizes="48x48" href="favicon-48x48.png">
+   <link rel="icon" type="image/png" sizes="64x64" href="favicon-64x64.png">
+   <link rel="icon" type="image/png" sizes="128x128" href="favicon-128x128.png">
 
    <!-- CSS here -->
    <link rel="stylesheet" href="assets/css/bootstrap.css">

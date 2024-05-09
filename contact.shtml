@@ -9,8 +9,15 @@
    <meta name="title" content="Contact Us | Widewings Preschool | Ranavav Near Porbandar">
    <meta name="description" content="Get in touch with Widewings Preschool in Ranavav, near Porbandar. Contact us for admissions, inquiries, or to schedule a visit. Our friendly staff is here to assist you. Enroll your child today and start their journey with us!">
 
-   <!-- Place favicon.ico in the root directory -->
-   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+   <!-- ICO favicon with multiple sizes -->
+   <link rel="icon" type="image/x-icon" href="favicon.ico">
+    
+   <!-- PNG favicons for specific sizes -->
+   <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+   <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+   <link rel="icon" type="image/png" sizes="48x48" href="favicon-48x48.png">
+   <link rel="icon" type="image/png" sizes="64x64" href="favicon-64x64.png">
+   <link rel="icon" type="image/png" sizes="128x128" href="favicon-128x128.png">
 
    <!-- CSS here -->
    <link rel="stylesheet" href="assets/css/bootstrap.css">

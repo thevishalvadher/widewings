@@ -10,8 +10,15 @@
    <meta name="description" content="Explore the exciting After School Activities offered at Widewings Preschool in Ranavav, near Porbandar. From sports and arts to music and drama, our activities provide children with enriching experiences beyond the classroom. Enroll your child today and let them discover their passions!">
    
 
-   <!-- Place favicon.ico in the root directory -->
-   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+   <!-- ICO favicon with multiple sizes -->
+   <link rel="icon" type="image/x-icon" href="favicon.ico">
+    
+   <!-- PNG favicons for specific sizes -->
+   <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+   <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+   <link rel="icon" type="image/png" sizes="48x48" href="favicon-48x48.png">
+   <link rel="icon" type="image/png" sizes="64x64" href="favicon-64x64.png">
+   <link rel="icon" type="image/png" sizes="128x128" href="favicon-128x128.png">
 
    <!-- CSS here -->
    <link rel="stylesheet" href="assets/css/bootstrap.css">
