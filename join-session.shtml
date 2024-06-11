@@ -1,41 +1,44 @@
+<div class="video-container">
+<video autoplay muted loop>
+   <source src="assets/img/widewings-pre-school-intro.mp4" type="video/mp4">
+   <!-- <source src="movie.ogg" type="video/ogg"> -->
+   Your browser does not support the video tag.
+</video>
+</div>
 <!-- joining area start here  -->
-<section class="bd-joining-area pt-100 pb-100">
-    <!-- joiniong bg -->
-    <div class="bd-joining-bg" data-background="assets/img/bg/joining-area.png"></div>
-    <!-- joining bg overlay -->
-    <div class="bd-joining-bg-overlay"></div>
-    <div class="container">
-       <div class="bd-joining">
-          <div class="bd-joining-shape-wrapper d-none d-md-block">
-             <div class="bd-joining-shape-1 p-absolute">
-                <img src="assets/img/shape/white-curved-line.png" alt="img not found!">
-             </div>
-             <div class="bd-joining-shape-2 p-absolute">
-                <img src="assets/img/shape/white-curved-line.png" alt="img not found!">
-             </div>
-          </div>
-          <div class="row justify-content-center">
-             <div class="col-md-8">
-                <div class="bd-joining-content text-center wow fadeInUp" data-wow-duration="1s"
+<!-- <section class="bd-joining-area pt-100 pb-100">
+   <div class="bd-joining-bg" data-background="assets/img/bg/joining-area.png"></div>
+   <div class="bd-joining-bg-overlay"></div>
+   <div class="container">
+      <div class="bd-joining">
+         <div class="bd-joining-shape-wrapper d-none d-md-block">
+            <div class="bd-joining-shape-1 p-absolute">
+               <img src="assets/img/shape/white-curved-line.png" alt="img not found!">
+            </div>
+            <div class="bd-joining-shape-2 p-absolute">
+               <img src="assets/img/shape/white-curved-line.png" alt="img not found!">
+            </div>
+         </div>
+         <div class="row justify-content-center">
+            <div class="col-md-8">
+               <div class="bd-joining-content text-center wow fadeInUp" data-wow-duration="1s"
                    data-wow-delay=".3s">
-                   <div class="bd-section-title-wrapper is-white mb-45">
-                      <h2 class="bd-section-title mb-0">Join Our New Session</h2>
-                      <p>Widewings believes that good questions drive good answers. Whether it's a query<br> about
-                         the world around us or a challenge.</p>
-                   </div>
-                   <a href="contact.shtml" class="bd-btn btn-white" target="_blank">
-                      <span class="bd-btn-inner">
-                         <span class="bd-btn-normal">inquiry</span>
-                         <span class="bd-btn-hover">inquiry</span>
-                      </span>
-                   </a>
-                </div>
-             </div>
-          </div>
-       </div>
-    </div>
-    <!-- bd-joining-bottom-line -->
-    <div class="bd-joining-line"></div>
-    <div class="bd-joining-line-2"></div>
- </section>
- <!-- joining area end here  -->
+                  <div class="bd-section-title-wrapper is-white mb-45">
+                     <h2 class="bd-section-title mb-0">Join Our New Session</h2>
+                     <p>Widewings believes that good questions drive good answers. Whether it's a query<br> about the world around us or a challenge.</p>
+                  </div>
+                  <a href="contact.shtml" class="bd-btn btn-white" target="_blank">
+                     <span class="bd-btn-inner">
+                        <span class="bd-btn-normal">inquiry</span>
+                        <span class="bd-btn-hover">inquiry</span>
+                     </span>
+                  </a>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="bd-joining-line"></div>
+   <div class="bd-joining-line-2"></div>
+</section> -->
+<!-- joining area end here  -->

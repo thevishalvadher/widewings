@@ -173,6 +173,12 @@
                                  <span class="bd-btn-hover">Get In Touch</span>
                               </span>
                            </a>
+                           <a href="contact.shtml" class="bd-btn bd-btn-grey">
+                              <span class="bd-btn-inner">
+                                 <span class="bd-btn-normal">Get In Touch</span>
+                                 <span class="bd-btn-hover">Get In Touch</span>
+                              </span>
+                           </a>
                         </div>
                         <div class="header-hamburger">
                            <button type="button" class="hamburger-btn offcanvas-open-btn">
