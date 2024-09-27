@@ -70,13 +70,19 @@
                         <h1 class="bd-hero-title wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
                            Welcome to Widewings<br> Pre-School
                         </h1>
-                        <div class="bd-hero-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">
-                           <a href="contact.shtml" class="bd-btn">
-                              <span class="bd-btn-inner">
-                                 <span class="bd-btn-normal">Admission Open</span>
-                                 <span class="bd-btn-hover">Admission Open</span>
-                              </span>
-                           </a>
+                           <div class="bd-hero-btn wow fadeInUp d-flex align-items-start flex-column" data-wow-duration="1s" data-wow-delay=".7s">
+                              <a href="contact.shtml" class="bd-btn">
+                                 <span class="bd-btn-inner">
+                                    <span class="bd-btn-normal">Admission Open</span>
+                                    <span class="bd-btn-hover">Admission Open</span>
+                                 </span>
+                              </a>
+                              <a href="http://widewingspreschool.in" class="bd-btn bd-btn-grey d-inline-flex d-xl-none mt-10">
+                                 <span class="bd-btn-inner">
+                                    <span class="bd-btn-normal">Parents Login</span>
+                                    <span class="bd-btn-hover">Parents Login</span>
+                                 </span>
+                              </a>
                         </div>
                      </div>
                   </div>

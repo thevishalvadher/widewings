@@ -96,15 +96,16 @@
 
 	&.bd-btn-grey {
 		background-color: transparent;
-		border: 1px solid var(--bd-theme-2);
-		color: var(--bd-common-black);
-
+		border: 1px solid var(--bd-theme-11);
+		color: var(--bd-theme-11) !important;
+		// color: var(--bd-common-black);
+		
 		&::before {
-			background-color: var(--bd-theme-2);
+			background-color: var(--bd-theme-11);
 		}
 
 		&:hover {
-			color: var(--bd-common-white);
+			color: var(--bd-common-white) !important;
 			border-color: transparent;
 
 			#{$self} {

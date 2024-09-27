@@ -94,7 +94,7 @@
 
 
  <!-- fixed whatsapp icon -->
- <a href="https://api.whatsapp.com/send?phone=9664967180&text=I%27ve+reviewed+the+website+and+have+a+few+questions.+Can+you+help+clarify+them%3F" class="whatsapp-btn">
+ <a href="https://api.whatsapp.com/send?phone=9664967180&text=Hello%2C+I%27m+interested+in+learning+more+about+your+programs+and+admissions.+Can+you+please+provide+more+details%3F" class="whatsapp-btn">
    <img src="assets/img/social/whatsapp-icon.svg" class="whatsapp-btn__ic" alt="contact whatsapp">
  </a>
 

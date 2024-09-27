@@ -1,3 +1,8 @@
+<script type="text/javascript">
+   function googleTranslateElementInit() {
+     new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+   }
+   </script>
 <!-- pre loader area start -->
 <div id="loading">
    <div id="preloader">
@@ -21,12 +26,12 @@
    <header>
       <div class="bd-header">
          <!-- header top area start  -->
-         <div class="theme-bg bd-header-top-11 p-relative d-none d-lg-block">
+         <div class="theme-bg bd-header-top-11 p-relative">
             <div class="container">
                <div class="row">
                   <div class="col-12">
-                     <div class="bd-header-top-wrapper d-flex justify-content-between">
-                        <div class="bd-header-top-left">
+                     <div class="bd-header-top-wrapper d-flex justify-content-lg-between justify-content-end">
+                        <div class="bd-header-top-left  d-none d-lg-block">
                            <div class="bd-header-meta-items">
                               <div class="bd-header-meta-item is-white d-flex align-items-center">
                                  <div class="bd-header-meta-icon">
@@ -39,7 +44,7 @@
                            </div>
                         </div>
                         <div class="bd-header-top-right d-flex align-items-center">
-                           <div class="bd-header-meta-items d-flex align-items-center">
+                           <div class="bd-header-meta-items align-items-center  d-none d-lg-flex">
                               <div class="bd-header-meta-item is-white d-flex align-items-center">
                                  <div class="bd-header-meta-icon">
                                     <i class="fa-solid fa-phone"></i>
@@ -57,6 +62,7 @@
                                  </div>
                               </div>
                            </div>
+                           <div id="google_translate_element" class="ms-lg-4"></div>
                         </div>
                      </div>
                   </div>
@@ -163,17 +169,23 @@
                                  <a href="contact.shtml">Contact</a>
                               </li>
                            </ul>
+                           <a href="http://widewingspreschool.in" class="bd-btn bd-btn-grey d-inline-flex d-xl-none mt-10">
+                              <span class="bd-btn-inner">
+                                 <span class="bd-btn-normal">Parents Login</span>
+                                 <span class="bd-btn-hover">Parents Login</span>
+                              </span>
+                           </a>
                         </nav>
                      </div>
                      <div class="bd-header-bottom-right d-flex justify-content-end align-items-center">
-                        <div class="bd-header-btn d-none d-xl-block">
-                           <a href="contact.shtml" class="bd-btn">
+                        <div class="bd-header-btn d-none d-xl-flex gap-2 flex-wrap">
+                           <a href="http://widewingspreschool.in" class="bd-btn bd-btn-grey">
                               <span class="bd-btn-inner">
-                                 <span class="bd-btn-normal">Get In Touch</span>
-                                 <span class="bd-btn-hover">Get In Touch</span>
+                                 <span class="bd-btn-normal">Parents Login</span>
+                                 <span class="bd-btn-hover">Parents Login</span>
                               </span>
                            </a>
-                           <a href="contact.shtml" class="bd-btn bd-btn-grey">
+                           <a href="contact.shtml" class="bd-btn">
                               <span class="bd-btn-inner">
                                  <span class="bd-btn-normal">Get In Touch</span>
                                  <span class="bd-btn-hover">Get In Touch</span>
@@ -197,3 +209,4 @@
       </div>
    </header>
 <!-- header area end here -->    
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>

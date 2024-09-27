@@ -24,7 +24,10 @@
                         <div class="bd-teacher-content-wrapper">
                            <div class="bd-teacher-content">
                               <h4 class="bd-teacher-title"><a href="javascript:void(0)">Khushbu Joshi</a></h4>
-                              <span class="bd-teacher-des">Teacher</span>
+                              <div class="d-flex flex-column">
+                                 <div class="bd-teacher-des">Principal</div>
+                                 <div class="bd-teacher-des opacity-75">Experience: 6+ Years</div>
+                              </div>
                            </div>
                            <!-- <div class="bd-teacher-social">
                               <ul>
@@ -55,7 +58,10 @@
                          <div class="bd-teacher-content-wrapper">
                             <div class="bd-teacher-content">
                                <h4 class="bd-teacher-title"><a href="javascript:void(0)">Hetvi Modha</a></h4>
-                               <span class="bd-teacher-des">Teacher</span>
+                               <div class="d-flex flex-column">
+                                 <div class="bd-teacher-des">Teacher</div>
+                                 <div class="bd-teacher-des opacity-75">Experience: 2 Years</div>
+                               </div>
                             </div>
                             <!-- <div class="bd-teacher-social">
                                <ul>
@@ -76,7 +82,7 @@
                          </div>
                       </div>
                    </div>
-                   <div class="swiper-slide">
+                  <div class="swiper-slide">
                       <div class="bd-teacher">
                          <a href="javascript:void(0)">
                             <div class="bd-teacher-thumb">
@@ -86,7 +92,10 @@
                          <div class="bd-teacher-content-wrapper">
                             <div class="bd-teacher-content">
                                <h4 class="bd-teacher-title"><a href="javascript:void(0)">Bhakti Joshi</a></h4>
-                               <span class="bd-teacher-des">Teacher</span>
+                               <div class="d-flex flex-column">
+                                  <div class="bd-teacher-des">Teacher</div>
+                                  <div class="bd-teacher-des opacity-75">Experience: 8 Years</div>
+                               </div>
                             </div>
                             <!-- <div class="bd-teacher-social">
                                <ul>
@@ -106,8 +115,8 @@
                             </div> -->
                          </div>
                       </div>
-                   </div>
-                   <div class="swiper-slide">
+                  </div>
+                  <div class="swiper-slide">
                      <div class="bd-teacher">
                         <a href="javascript:void(0)">
                            <div class="bd-teacher-thumb">
@@ -116,8 +125,11 @@
                         </a>
                         <div class="bd-teacher-content-wrapper">
                            <div class="bd-teacher-content">
-                              <h4 class="bd-teacher-title"><a href="javascript:void(0)">Geeta Joshi</a></h4>
-                              <span class="bd-teacher-des">Teacher</span>
+                              <h4 class="bd-teacher-title"><a href="javascript:void(0)">Sonal Gohel</a></h4>
+                              <div class="d-flex flex-column">
+                                 <div class="bd-teacher-des">Teacher</div>
+                                 <div class="bd-teacher-des opacity-75">Experience: 5+ Years</div>
+                              </div>
                            </div>
                            <!-- <div class="bd-teacher-social">
                               <ul>
@@ -147,8 +159,11 @@
                         </a>
                         <div class="bd-teacher-content-wrapper">
                            <div class="bd-teacher-content">
-                              <h4 class="bd-teacher-title"><a href="javascript:void(0)">Nayna Pandit</a></h4>
-                              <span class="bd-teacher-des">Teacher</span>
+                              <h4 class="bd-teacher-title"><a href="javascript:void(0)">Bhagyashree Hodar</a></h4>
+                              <div class="d-flex flex-column">
+                                 <div class="bd-teacher-des">Teacher</div>
+                                 <div class="bd-teacher-des opacity-75">Experience: 2.5+ Years</div>
+                              </div>
                            </div>
                            <!-- <div class="bd-teacher-social">
                               <ul>
@@ -166,7 +181,7 @@
                                  </li>
                               </ul>
                            </div> -->
-                        </div>
+                        </div> 
                      </div>
                   </div>
                   <div class="swiper-slide">
@@ -178,8 +193,113 @@
                         </a>
                         <div class="bd-teacher-content-wrapper">
                            <div class="bd-teacher-content">
-                              <h4 class="bd-teacher-title"><a href="javascript:void(0)">Bina Jogiya</a></h4>
-                              <span class="bd-teacher-des">Teacher</span>
+                              <h4 class="bd-teacher-title"><a href="javascript:void(0)">Geeta Chauhan</a></h4>
+                              <div class="d-flex flex-column">
+                                 <div class="bd-teacher-des">Teacher</div>
+                                 <div class="bd-teacher-des opacity-75">Experience: 10+ Years</div>
+                              </div>
+                           </div>
+                           <!-- <div class="bd-teacher-social">
+                              <ul>
+                                 <li>
+                                    <a target="_blank" href="https://www.facebook.com/"><i
+                                          class="fa-brands fa-facebook-f"></i></a>
+                                 </li>
+                                 <li>
+                                    <a target="_blank" href="https://twitter.com/"><i
+                                          class="fa-brands fa-twitter"></i></a>
+                                 </li>
+                                 <li>
+                                    <a target="_blank" href="https://www.youtube.com/"><i
+                                          class="fa-brands fa-youtube"></i></a>
+                                 </li>
+                              </ul>
+                           </div> -->
+                        </div> 
+                     </div>
+                  </div>
+                  <div class="swiper-slide">
+                     <div class="bd-teacher">
+                        <a href="javascript:void(0)">
+                           <div class="bd-teacher-thumb">
+                              <img src="assets/img/teacher/1.jpg" alt="Image not found">
+                           </div>
+                        </a>
+                        <div class="bd-teacher-content-wrapper">
+                           <div class="bd-teacher-content">
+                              <h4 class="bd-teacher-title"><a href="javascript:void(0)">Surekha Vara</a></h4>
+                              <div class="d-flex flex-column">
+                                 <div class="bd-teacher-des">Maid</div>
+                                 <div class="bd-teacher-des opacity-75">Experience: 2+ Years</div>
+                              </div>
+                           </div>
+                           <!-- <div class="bd-teacher-social">
+                              <ul>
+                                 <li>
+                                    <a target="_blank" href="https://www.facebook.com/"><i
+                                          class="fa-brands fa-facebook-f"></i></a>
+                                 </li>
+                                 <li>
+                                    <a target="_blank" href="https://twitter.com/"><i
+                                          class="fa-brands fa-twitter"></i></a>
+                                 </li>
+                                 <li>
+                                    <a target="_blank" href="https://www.youtube.com/"><i
+                                          class="fa-brands fa-youtube"></i></a>
+                                 </li>
+                              </ul>
+                           </div> -->
+                        </div> 
+                     </div>
+                  </div>
+                  <div class="swiper-slide">
+                     <div class="bd-teacher">
+                        <a href="javascript:void(0)">
+                           <div class="bd-teacher-thumb">
+                              <img src="assets/img/teacher/1.jpg" alt="Image not found">
+                           </div>
+                        </a>
+                        <div class="bd-teacher-content-wrapper">
+                           <div class="bd-teacher-content">
+                              <h4 class="bd-teacher-title"><a href="javascript:void(0)">Jethva Krishanaben</a></h4>
+                              <div class="d-flex flex-column">
+                                 <div class="bd-teacher-des">Maid</div>
+                                 <div class="bd-teacher-des opacity-75">Experience: 1.5+ Years</div>
+                              </div>
+                           </div>
+                           <!-- <div class="bd-teacher-social">
+                              <ul>
+                                 <li>
+                                    <a target="_blank" href="https://www.facebook.com/"><i
+                                          class="fa-brands fa-facebook-f"></i></a>
+                                 </li>
+                                 <li>
+                                    <a target="_blank" href="https://twitter.com/"><i
+                                          class="fa-brands fa-twitter"></i></a>
+                                 </li>
+                                 <li>
+                                    <a target="_blank" href="https://www.youtube.com/"><i
+                                          class="fa-brands fa-youtube"></i></a>
+                                 </li>
+                              </ul>
+                           </div> -->
+                        </div> 
+                     </div>
+                  </div>
+                  <div class="swiper-slide">
+                     <div class="bd-teacher">
+                        <a href="javascript:void(0)">
+                           <div class="bd-teacher-thumb">
+                              <img src="assets/img/teacher/m.jpg" alt="Image not found">
+                           </div>
+                        </a>
+                        <div class="bd-teacher-content-wrapper">
+                           <div class="bd-teacher-content">
+                              <h4 class="bd-teacher-title"><a href="javascript:void(0)">Nandha Mayur</a></h4>
+                              <div class="d-flex flex-column">
+                                 <div class="bd-teacher-des">Security Guard</div>
+                                 <div class="bd-teacher-des opacity-75">Experience: 2+ Years</div>
+                              </div>
                            </div>
                            <!-- <div class="bd-teacher-social">
                               <ul>

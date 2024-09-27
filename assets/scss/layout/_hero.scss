@@ -354,7 +354,7 @@
         span {
             font-size: 23px;
             font-weight: var(--bd-fw-sbold);
-            color: var(--bd-theme-1);
+            // color: var(--bd-theme-1);
             margin-bottom: 10px;
             display: inline-block;
 
@@ -440,7 +440,12 @@
                 span {
                     font-size: 16px;
                     font-weight: 500;
-                    color: var(--bd-common-white);
+                    // color: var(--bd-common-white);
+                }
+                &:not(.bd-btn-grey){
+                    span{
+                        color: var(--bd-common-white);
+                    }
                 }
             }
         }
