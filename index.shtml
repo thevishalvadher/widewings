@@ -66,10 +66,11 @@
                <div class="row align-items-center">
                   <div class="col-lg-7 col-md-6">
                      <div class="bd-hero-content">
-                        <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Your Preschool Journey Starts Here</span>
+                        <span class="wow fadeInUp lh-base" data-wow-duration="1s" data-wow-delay=".3s">Your Preschool Journey Starts Here<br>(Gujarati & English Medium)</span>
                         <h1 class="bd-hero-title wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
                            Welcome to Widewings<br> Pre-School
                         </h1>
+                        
                            <div class="bd-hero-btn wow fadeInUp d-flex align-items-start flex-column" data-wow-duration="1s" data-wow-delay=".7s">
                               <a href="contact.shtml" class="bd-btn">
                                  <span class="bd-btn-inner">
@@ -84,6 +85,7 @@
                                  </span>
                               </a>
                         </div>
+                        
                      </div>
                   </div>
                   <div class="col-lg-5 col-md-6">
@@ -658,7 +660,35 @@
       <!--#include file="join-session.shtml"-->
 
      <!--#include file="best-teacher.shtml"-->
+      <!-- Modal -->
+      <div class="modal fade ad-open-modal" id="adopenModal" tabindex="-1"  aria-hidden="true">
+         <div class="modal-dialog modal-lg modal-dialog-centered">
+         <div class="modal-content border-0">
+            <div class="modal-body p-0">
+               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+               <a href="contact.shtml">
+                  <img src="assets/img/program/addmission-open.webp" alt="ADMISSIONS NOW OPEN" class="img-fluid">
+               </a>
+            </div>
+         </div>
+         </div>
+      </div>
 
+      <script>
+         // Get the modal element
+         var myModal = document.getElementById('adopenModal');
+      
+         // Show the modal 2 seconds after the entire page has loaded
+         window.onload = function() {
+            setTimeout(function() {
+               var modal = new bootstrap.Modal(myModal);
+               modal.show();
+            }, 1000); // Delay of 2000ms (2 seconds)
+         };
+      </script>
+      
+      
+      
       <!-- testimonial area start here  -->
       <!-- <section class="bd-testimonial-area my-bg">
          <div class="bd-testimonial-video" data-background="assets/img/bg/testimonail-bg.png" style="background-repeat: no-repeat;background-size: cover;">

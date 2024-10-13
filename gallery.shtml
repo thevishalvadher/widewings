@@ -88,10 +88,10 @@
                         <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
                            <div class="bd-gallery-thumb-wrapper">
                               <div class="bd-gallery-thumb">
-                                 <img src="assets/img/gallery/d1.jpg" alt="img not found!">
+                                 <img src="assets/img/gallery/d1.webp" alt="img not found!">
                               </div>
                               <div class="bd-gallery-icon">
-                                 <a href="assets/img/gallery/d1.jpg" class="popup-image"><i
+                                 <a href="assets/img/gallery/d1.webp" class="popup-image"><i
                                        class="flaticon-eye"></i></a>
                               </div>
                            </div>
@@ -101,10 +101,10 @@
                         <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
                            <div class="bd-gallery-thumb-wrapper">
                               <div class="bd-gallery-thumb">
-                                 <img src="assets/img/gallery/d4.jpg" alt="img not found!">
+                                 <img src="assets/img/gallery/d4.webp" alt="img not found!">
                               </div>
                               <div class="bd-gallery-icon">
-                                 <a href="assets/img/gallery/d4.jpg" class="popup-image"><i
+                                 <a href="assets/img/gallery/d4.webp" class="popup-image"><i
                                        class="flaticon-eye"></i></a>
                               </div>
                            </div>
@@ -112,52 +112,14 @@
                      </div>
                   </div>
                </div>
-               <div class="col-lg-5">
+               <div class="col-lg-6">
                   <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
                      <div class="bd-gallery-thumb-wrapper">
                         <div class="bd-gallery-thumb">
-                           <img src="assets/img/gallery/d2.jpg" alt="img not found!">
+                           <img src="assets/img/gallery/d2.webp" alt="img not found!">
                         </div>
                         <div class="bd-gallery-icon">
-                           <a href="assets/img/gallery/d2.jpg" class="popup-image"><i class="flaticon-eye"></i></a>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4">
-                  <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                     <div class="bd-gallery-thumb-wrapper">
-                        <div class="bd-gallery-thumb">
-                           <img src="assets/img/gallery/d3.jpg" alt="img not found!">
-                        </div>
-                        <div class="bd-gallery-icon">
-                           <a href="assets/img/gallery/d3.jpg" class="popup-image"><i class="flaticon-eye"></i></a>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="row">
-               <div class="col-lg-5">
-                  <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                     <div class="bd-gallery-thumb-wrapper">
-                        <div class="bd-gallery-thumb">
-                           <img src="assets/img/gallery/d5.jpg" alt="img not found!">
-                        </div>
-                        <div class="bd-gallery-icon">
-                           <a href="assets/img/gallery/d5.jpg" class="popup-image"><i class="flaticon-eye"></i></a>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4">
-                  <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                     <div class="bd-gallery-thumb-wrapper">
-                        <div class="bd-gallery-thumb">
-                           <img src="assets/img/gallery/d6.jpg" alt="img not found!">
-                        </div>
-                        <div class="bd-gallery-icon">
-                           <a href="assets/img/gallery/d6.jpg" class="popup-image"><i class="flaticon-eye"></i></a>
+                           <a href="assets/img/gallery/d2.webp" class="popup-image"><i class="flaticon-eye"></i></a>
                         </div>
                      </div>
                   </div>
@@ -168,10 +130,64 @@
                         <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
                            <div class="bd-gallery-thumb-wrapper">
                               <div class="bd-gallery-thumb">
-                                 <img src="assets/img/gallery/d7.jpg" alt="img not found!">
+                                 <img src="assets/img/gallery/d3.webp" alt="img not found!">
                               </div>
                               <div class="bd-gallery-icon">
-                                 <a href="assets/img/gallery/d7.jpg" class="popup-image"><i
+                                 <a href="assets/img/gallery/d3.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-12">
+                        <div class="bd-gallery wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+                           <div class="bd-gallery-thumb-wrapper">
+                              <div class="bd-gallery-thumb">
+                                 <img src="assets/img/gallery/d6.webp" alt="img not found!">
+                              </div>
+                              <div class="bd-gallery-icon">
+                                 <a href="assets/img/gallery/d6.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-lg-5">
+                  <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+                     <div class="bd-gallery-thumb-wrapper">
+                        <div class="bd-gallery-thumb">
+                           <img src="assets/img/gallery/d11.webp" alt="img not found!">
+                        </div>
+                        <div class="bd-gallery-icon">
+                           <a href="assets/img/gallery/d11.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4">
+                  <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+                     <div class="bd-gallery-thumb-wrapper">
+                        <div class="bd-gallery-thumb">
+                           <img src="assets/img/gallery/d13.webp" alt="img not found!">
+                        </div>
+                        <div class="bd-gallery-icon">
+                           <a href="assets/img/gallery/d13.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-3">
+                  <div class="row">
+                     <div class="col-12">
+                        <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+                           <div class="bd-gallery-thumb-wrapper">
+                              <div class="bd-gallery-thumb">
+                                 <img src="assets/img/gallery/d9.webp" alt="img not found!">
+                              </div>
+                              <div class="bd-gallery-icon">
+                                 <a href="assets/img/gallery/d9.webp" class="popup-image"><i
                                        class="flaticon-eye"></i></a>
                               </div>
                            </div>
@@ -181,13 +197,141 @@
                         <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
                            <div class="bd-gallery-thumb-wrapper">
                               <div class="bd-gallery-thumb">
-                                 <img src="assets/img/gallery/d8.jpg" alt="img not found!">
+                                 <img src="assets/img/gallery/d8.webp" alt="img not found!">
                               </div>
                               <div class="bd-gallery-icon">
-                                 <a href="assets/img/gallery/d8.jpg" class="popup-image"><i
+                                 <a href="assets/img/gallery/d8.webp" class="popup-image"><i
                                        class="flaticon-eye"></i></a>
                               </div>
                            </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-lg-3">
+                  <div class="row">
+                     <div class="col-12">
+                        <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+                           <div class="bd-gallery-thumb-wrapper">
+                              <div class="bd-gallery-thumb">
+                                 <img src="assets/img/gallery/d10.webp" alt="img not found!">
+                              </div>
+                              <div class="bd-gallery-icon">
+                                 <a href="assets/img/gallery/d10.webp" class="popup-image"><i
+                                       class="flaticon-eye"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-12">
+                        <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+                           <div class="bd-gallery-thumb-wrapper">
+                              <div class="bd-gallery-thumb">
+                                 <img src="assets/img/gallery/d14.webp" alt="img not found!">
+                              </div>
+                              <div class="bd-gallery-icon">
+                                 <a href="assets/img/gallery/d14.webp" class="popup-image"><i
+                                       class="flaticon-eye"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-6">
+                  <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+                     <div class="bd-gallery-thumb-wrapper">
+                        <div class="bd-gallery-thumb">
+                           <img src="assets/img/gallery/d15.webp" alt="img not found!">
+                        </div>
+                        <div class="bd-gallery-icon">
+                           <a href="assets/img/gallery/d15.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-3">
+                  <div class="row">
+                     <div class="col-12">
+                        <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+                           <div class="bd-gallery-thumb-wrapper">
+                              <div class="bd-gallery-thumb">
+                                 <img src="assets/img/gallery/d18.webp" alt="img not found!">
+                              </div>
+                              <div class="bd-gallery-icon">
+                                 <a href="assets/img/gallery/d18.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-12">
+                        <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+                           <div class="bd-gallery-thumb-wrapper">
+                              <div class="bd-gallery-thumb">
+                                 <img src="assets/img/gallery/d17.webp" alt="img not found!">
+                              </div>
+                              <div class="bd-gallery-icon">
+                                 <a href="assets/img/gallery/d17.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-lg-4">
+                  <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+                     <div class="bd-gallery-thumb-wrapper">
+                        <div class="bd-gallery-thumb">
+                           <img src="assets/img/gallery/d16.webp" alt="img not found!">
+                        </div>
+                        <div class="bd-gallery-icon">
+                           <a href="assets/img/gallery/d16.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-3">
+                  <div class="row">
+                     <div class="col-12">
+                        <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+                           <div class="bd-gallery-thumb-wrapper">
+                              <div class="bd-gallery-thumb">
+                                 <img src="assets/img/gallery/d19.webp" alt="img not found!">
+                              </div>
+                              <div class="bd-gallery-icon">
+                                 <a href="assets/img/gallery/d19.webp" class="popup-image"><i
+                                       class="flaticon-eye"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-12">
+                        <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+                           <div class="bd-gallery-thumb-wrapper">
+                              <div class="bd-gallery-thumb">
+                                 <img src="assets/img/gallery/d20.webp" alt="img not found!">
+                              </div>
+                              <div class="bd-gallery-icon">
+                                 <a href="assets/img/gallery/d20.webp" class="popup-image"><i
+                                       class="flaticon-eye"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-5">
+                  <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+                     <div class="bd-gallery-thumb-wrapper">
+                        <div class="bd-gallery-thumb">
+                           <img src="assets/img/gallery/d21.webp" alt="img not found!">
+                        </div>
+                        <div class="bd-gallery-icon">
+                           <a href="assets/img/gallery/d21.webp" class="popup-image"><i class="flaticon-eye"></i></a>
                         </div>
                      </div>
                   </div>

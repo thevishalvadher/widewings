@@ -3540,6 +3540,16 @@ body {
   pointer-events: none;
 }
 
+.ad-open-modal .modal-content {
+  position: relative;
+  overflow: hidden;
+}
+.ad-open-modal .btn-close {
+  position: absolute;
+  right: 15px;
+  top: 15px;
+}
+
 @media (max-width: 767px) {
   .whatsapp-btn {
     right: 20px;

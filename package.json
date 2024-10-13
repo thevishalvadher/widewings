@@ -7,5 +7,8 @@
     "watch:sass": "sass --watch assets/scss/main.scss assets/css/main.css"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
 }
