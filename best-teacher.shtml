@@ -48,40 +48,6 @@
                         </div>
                      </div>
                   </div>
-                   <div class="swiper-slide">
-                      <div class="bd-teacher">
-                         <a href="javascript:void(0)">
-                            <div class="bd-teacher-thumb">
-                               <img src="assets/img/teacher/1.jpg" alt="Image not found">
-                            </div>
-                         </a>
-                         <div class="bd-teacher-content-wrapper">
-                            <div class="bd-teacher-content">
-                               <h4 class="bd-teacher-title"><a href="javascript:void(0)">Hetvi Modha</a></h4>
-                               <div class="d-flex flex-column">
-                                 <div class="bd-teacher-des">Teacher</div>
-                                 <div class="bd-teacher-des opacity-75">Experience: 2 Years</div>
-                               </div>
-                            </div>
-                            <!-- <div class="bd-teacher-social">
-                               <ul>
-                                  <li>
-                                     <a target="_blank" href="https://www.facebook.com/"><i
-                                           class="fa-brands fa-facebook-f"></i></a>
-                                  </li>
-                                  <li>
-                                     <a target="_blank" href="https://twitter.com/"><i
-                                           class="fa-brands fa-twitter"></i></a>
-                                  </li>
-                                  <li>
-                                     <a target="_blank" href="https://www.youtube.com/"><i
-                                           class="fa-brands fa-youtube"></i></a>
-                                  </li>
-                               </ul>
-                            </div> -->
-                         </div>
-                      </div>
-                   </div>
                   <div class="swiper-slide">
                       <div class="bd-teacher">
                          <a href="javascript:void(0)">
@@ -116,40 +82,7 @@
                          </div>
                       </div>
                   </div>
-                  <div class="swiper-slide">
-                     <div class="bd-teacher">
-                        <a href="javascript:void(0)">
-                           <div class="bd-teacher-thumb">
-                              <img src="assets/img/teacher/1.jpg" alt="Image not found">
-                           </div>
-                        </a>
-                        <div class="bd-teacher-content-wrapper">
-                           <div class="bd-teacher-content">
-                              <h4 class="bd-teacher-title"><a href="javascript:void(0)">Sonal Gohel</a></h4>
-                              <div class="d-flex flex-column">
-                                 <div class="bd-teacher-des">Teacher</div>
-                                 <div class="bd-teacher-des opacity-75">Experience: 5+ Years</div>
-                              </div>
-                           </div>
-                           <!-- <div class="bd-teacher-social">
-                              <ul>
-                                 <li>
-                                    <a target="_blank" href="https://www.facebook.com/"><i
-                                          class="fa-brands fa-facebook-f"></i></a>
-                                 </li>
-                                 <li>
-                                    <a target="_blank" href="https://twitter.com/"><i
-                                          class="fa-brands fa-twitter"></i></a>
-                                 </li>
-                                 <li>
-                                    <a target="_blank" href="https://www.youtube.com/"><i
-                                          class="fa-brands fa-youtube"></i></a>
-                                 </li>
-                              </ul>
-                           </div> -->
-                        </div>
-                     </div>
-                  </div>
+              
                   <div class="swiper-slide">
                      <div class="bd-teacher">
                         <a href="javascript:void(0)">
