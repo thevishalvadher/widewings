@@ -219,7 +219,20 @@
    function googleTranslateElementInit() {
      new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
    }
+
+   // Ensure that the script is reloaded and the widget is initialized on page load
+   window.onload = function() {
+       // Check if Google Translate is already loaded, if not, load it
+       if (!window.google || !window.google.translate) {
+           var script = document.createElement('script');
+           script.src = "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
+           document.body.appendChild(script);
+       } else {
+           googleTranslateElementInit(); // Re-initialize if it's already loaded
+       }
+   };
 </script>
 
-<!-- header area end here -->    
+<!-- Header area end here -->
+
 <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>

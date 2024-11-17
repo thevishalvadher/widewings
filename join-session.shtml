@@ -1,9 +1,10 @@
-<!-- <div class="video-container">
-<video autoplay muted loop>
-   <source src="assets/img/widewings-pre-school-intro.mp4" type="video/mp4">
+<div class="video-container" >
+<video autoplay muted loop id="promo-video">
+   <source src="assets/img/widewings-preschool-new.mp4" type="video/mp4">
    Your browser does not support the video tag.
 </video>
-</div> -->
+</div>
+
 <!-- joining area start here  -->
 <!-- <section class="bd-joining-area pt-100 pb-100">
    <div class="bd-joining-bg" data-background="assets/img/bg/joining-area.png"></div>
