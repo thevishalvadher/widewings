@@ -196,10 +196,28 @@
                         </a>
                         <div class="bd-teacher-content-wrapper">
                            <div class="bd-teacher-content">
-                              <h4 class="bd-teacher-title"><a href="javascript:void(0)">Jyoti Pankhaniya</a></h4>
+                              <h4 class="bd-teacher-title"><a href="javascript:void(0)">Chandani Hodar</a></h4>
                               <div class="d-flex flex-column">
                                  <div class="bd-teacher-des">Teacher</div>
-                                 <div class="bd-teacher-des opacity-75">Experience: 7+ Years</div>
+                                 <div class="bd-teacher-des opacity-75">Experience: 1 Year</div>
+                              </div>
+                           </div>
+                        </div> 
+                     </div>
+                  </div>
+                  <div class="swiper-slide">
+                     <div class="bd-teacher">
+                        <a href="javascript:void(0)">
+                           <div class="bd-teacher-thumb">
+                              <img src="assets/img/teacher/1.jpg" alt="Image not found">
+                           </div>
+                        </a>
+                        <div class="bd-teacher-content-wrapper">
+                           <div class="bd-teacher-content">
+                              <h4 class="bd-teacher-title"><a href="javascript:void(0)">Nubaisha Nagla</a></h4>
+                              <div class="d-flex flex-column">
+                                 <div class="bd-teacher-des">Teacher</div>
+                                 <div class="bd-teacher-des opacity-75">Experience: 1.5 Years</div>
                               </div>
                            </div>
                         </div> 

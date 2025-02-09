@@ -540,7 +540,7 @@
                               </div>
                            </div>
                         </div>
-                        <div class="swiper-slide">
+                        <!-- <div class="swiper-slide">
                            <div class="bd-program">
                               <div class="bd-program-thumb-wrapper">
                                  <a href="after-school-activities.shtml">
@@ -567,7 +567,7 @@
                                  </div>
                               </div>
                            </div>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                </div>
@@ -661,7 +661,7 @@
 
      <!--#include file="best-teacher.shtml"-->
       <!-- Modal -->
-      <div class="modal fade ad-open-modal" id="adopenModal" tabindex="-1"  aria-hidden="true">
+      <!-- <div class="modal fade ad-open-modal" id="adopenModal" tabindex="-1"  aria-hidden="true">
          <div class="modal-dialog modal-lg modal-dialog-centered">
          <div class="modal-content border-0">
             <div class="modal-body p-0">
@@ -672,9 +672,9 @@
             </div>
          </div>
          </div>
-      </div>
+      </div> -->
 
-      <script>
+      <!-- <script>
          // Get the modal element
          var myModal = document.getElementById('adopenModal');
       
@@ -685,7 +685,7 @@
                modal.show();
             }, 1000); // Delay of 2000ms (2 seconds)
          };
-      </script>
+      </script> -->
       
       
       
