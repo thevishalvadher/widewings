@@ -615,6 +615,16 @@ i[class^=flaticon-] {
   margin-right: 20px;
 }
 
+.modal-lg {
+  max-width: 680px;
+}
+
+img {
+  -webkit-user-drag: none; /* For Safari */
+  user-drag: none; /* For other browsers */
+  pointer-events: none; /* Prevents all mouse events */
+}
+
 /*--
     - Spacing
 -----------------------------------------*/
@@ -6705,6 +6715,24 @@ body {
   font-size: 25px;
 }
 
+.img-container {
+  position: relative;
+}
+.img-container__item {
+  position: absolute;
+}
+.img-container__item .bd-gallery-thumb {
+  border: 1px solid #ddd;
+}
+.img-container__item .bd-gallery-thumb img {
+  pointer-events: none;
+}
+
+@media (max-width: 1199px) {
+  .img-container__item {
+    pointer-events: none;
+  }
+}
 .bd-product {
   background-color: var(--bd-common-white);
   border-radius: 24px;

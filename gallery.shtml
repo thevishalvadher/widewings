@@ -81,258 +81,923 @@
       <!-- gallery area start here  -->
       <div class="bd-gallery-area p-relative pt-120 pb-95 p-relative">
          <div class="container">
-            <div class="row">
-               <div class="col-lg-3">
-                  <div class="row">
-                     <div class="col-12">
-                        <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                           <div class="bd-gallery-thumb-wrapper">
-                              <div class="bd-gallery-thumb">
-                                 <img src="assets/img/gallery/d1.webp" alt="img not found!">
-                              </div>
-                              <div class="bd-gallery-icon">
-                                 <a href="assets/img/gallery/d1.webp" class="popup-image"><i
-                                       class="flaticon-eye"></i></a>
-                              </div>
-                           </div>
-                        </div>
+            <div class="img-container">
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/d1.webp" alt="img not found!">
                      </div>
-                     <div class="col-12">
-                        <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                           <div class="bd-gallery-thumb-wrapper">
-                              <div class="bd-gallery-thumb">
-                                 <img src="assets/img/gallery/d4.webp" alt="img not found!">
-                              </div>
-                              <div class="bd-gallery-icon">
-                                 <a href="assets/img/gallery/d4.webp" class="popup-image"><i
-                                       class="flaticon-eye"></i></a>
-                              </div>
-                           </div>
-                        </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/d1.webp" class="popup-image"><i
+                              class="flaticon-eye"></i></a>
                      </div>
                   </div>
                </div>
-               <div class="col-lg-6">
-                  <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                     <div class="bd-gallery-thumb-wrapper">
-                        <div class="bd-gallery-thumb">
-                           <img src="assets/img/gallery/d2.webp" alt="img not found!">
-                        </div>
-                        <div class="bd-gallery-icon">
-                           <a href="assets/img/gallery/d2.webp" class="popup-image"><i class="flaticon-eye"></i></a>
-                        </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/d4.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/d4.webp" class="popup-image"><i
+                              class="flaticon-eye"></i></a>
                      </div>
                   </div>
                </div>
-               <div class="col-lg-3">
-                  <div class="row">
-                     <div class="col-12">
-                        <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                           <div class="bd-gallery-thumb-wrapper">
-                              <div class="bd-gallery-thumb">
-                                 <img src="assets/img/gallery/d3.webp" alt="img not found!">
-                              </div>
-                              <div class="bd-gallery-icon">
-                                 <a href="assets/img/gallery/d3.webp" class="popup-image"><i class="flaticon-eye"></i></a>
-                              </div>
-                           </div>
-                        </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/d2.webp" alt="img not found!">
                      </div>
-                     <div class="col-12">
-                        <div class="bd-gallery wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                           <div class="bd-gallery-thumb-wrapper">
-                              <div class="bd-gallery-thumb">
-                                 <img src="assets/img/gallery/d6.webp" alt="img not found!">
-                              </div>
-                              <div class="bd-gallery-icon">
-                                 <a href="assets/img/gallery/d6.webp" class="popup-image"><i class="flaticon-eye"></i></a>
-                              </div>
-                           </div>
-                        </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/d2.webp" class="popup-image"><i class="flaticon-eye"></i></a>
                      </div>
                   </div>
                </div>
-            </div>
-            <div class="row">
-               <div class="col-lg-5">
-                  <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                     <div class="bd-gallery-thumb-wrapper">
-                        <div class="bd-gallery-thumb">
-                           <img src="assets/img/gallery/d11.webp" alt="img not found!">
-                        </div>
-                        <div class="bd-gallery-icon">
-                           <a href="assets/img/gallery/d11.webp" class="popup-image"><i class="flaticon-eye"></i></a>
-                        </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/d3.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/d3.webp" class="popup-image"><i class="flaticon-eye"></i></a>
                      </div>
                   </div>
                </div>
-               <div class="col-lg-4">
-                  <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                     <div class="bd-gallery-thumb-wrapper">
-                        <div class="bd-gallery-thumb">
-                           <img src="assets/img/gallery/d13.webp" alt="img not found!">
-                        </div>
-                        <div class="bd-gallery-icon">
-                           <a href="assets/img/gallery/d13.webp" class="popup-image"><i class="flaticon-eye"></i></a>
-                        </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/d6.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/d6.webp" class="popup-image"><i class="flaticon-eye"></i></a>
                      </div>
                   </div>
                </div>
-               <div class="col-lg-3">
-                  <div class="row">
-                     <div class="col-12">
-                        <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                           <div class="bd-gallery-thumb-wrapper">
-                              <div class="bd-gallery-thumb">
-                                 <img src="assets/img/gallery/d9.webp" alt="img not found!">
-                              </div>
-                              <div class="bd-gallery-icon">
-                                 <a href="assets/img/gallery/d9.webp" class="popup-image"><i
-                                       class="flaticon-eye"></i></a>
-                              </div>
-                           </div>
-                        </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/d11.webp" alt="img not found!">
                      </div>
-                     <div class="col-12">
-                        <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                           <div class="bd-gallery-thumb-wrapper">
-                              <div class="bd-gallery-thumb">
-                                 <img src="assets/img/gallery/d8.webp" alt="img not found!">
-                              </div>
-                              <div class="bd-gallery-icon">
-                                 <a href="assets/img/gallery/d8.webp" class="popup-image"><i
-                                       class="flaticon-eye"></i></a>
-                              </div>
-                           </div>
-                        </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/d11.webp" class="popup-image"><i class="flaticon-eye"></i></a>
                      </div>
                   </div>
                </div>
-            </div>
-            <div class="row">
-               <div class="col-lg-3">
-                  <div class="row">
-                     <div class="col-12">
-                        <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                           <div class="bd-gallery-thumb-wrapper">
-                              <div class="bd-gallery-thumb">
-                                 <img src="assets/img/gallery/d10.webp" alt="img not found!">
-                              </div>
-                              <div class="bd-gallery-icon">
-                                 <a href="assets/img/gallery/d10.webp" class="popup-image"><i
-                                       class="flaticon-eye"></i></a>
-                              </div>
-                           </div>
-                        </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/d13.webp" alt="img not found!">
                      </div>
-                     <div class="col-12">
-                        <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                           <div class="bd-gallery-thumb-wrapper">
-                              <div class="bd-gallery-thumb">
-                                 <img src="assets/img/gallery/d14.webp" alt="img not found!">
-                              </div>
-                              <div class="bd-gallery-icon">
-                                 <a href="assets/img/gallery/d14.webp" class="popup-image"><i
-                                       class="flaticon-eye"></i></a>
-                              </div>
-                           </div>
-                        </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/d13.webp" class="popup-image"><i class="flaticon-eye"></i></a>
                      </div>
                   </div>
                </div>
-               <div class="col-lg-6">
-                  <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                     <div class="bd-gallery-thumb-wrapper">
-                        <div class="bd-gallery-thumb">
-                           <img src="assets/img/gallery/d15.webp" alt="img not found!">
-                        </div>
-                        <div class="bd-gallery-icon">
-                           <a href="assets/img/gallery/d15.webp" class="popup-image"><i class="flaticon-eye"></i></a>
-                        </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/d9.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/d9.webp" class="popup-image"><i
+                              class="flaticon-eye"></i></a>
                      </div>
                   </div>
                </div>
-               <div class="col-lg-3">
-                  <div class="row">
-                     <div class="col-12">
-                        <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                           <div class="bd-gallery-thumb-wrapper">
-                              <div class="bd-gallery-thumb">
-                                 <img src="assets/img/gallery/d18.webp" alt="img not found!">
-                              </div>
-                              <div class="bd-gallery-icon">
-                                 <a href="assets/img/gallery/d18.webp" class="popup-image"><i class="flaticon-eye"></i></a>
-                              </div>
-                           </div>
-                        </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/d8.webp" alt="img not found!">
                      </div>
-                     <div class="col-12">
-                        <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                           <div class="bd-gallery-thumb-wrapper">
-                              <div class="bd-gallery-thumb">
-                                 <img src="assets/img/gallery/d17.webp" alt="img not found!">
-                              </div>
-                              <div class="bd-gallery-icon">
-                                 <a href="assets/img/gallery/d17.webp" class="popup-image"><i class="flaticon-eye"></i></a>
-                              </div>
-                           </div>
-                        </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/d8.webp" class="popup-image"><i
+                              class="flaticon-eye"></i></a>
                      </div>
                   </div>
                </div>
-            </div>
-            <div class="row">
-               <div class="col-lg-4">
-                  <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                     <div class="bd-gallery-thumb-wrapper">
-                        <div class="bd-gallery-thumb">
-                           <img src="assets/img/gallery/d16.webp" alt="img not found!">
-                        </div>
-                        <div class="bd-gallery-icon">
-                           <a href="assets/img/gallery/d16.webp" class="popup-image"><i class="flaticon-eye"></i></a>
-                        </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/d10.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/d10.webp" class="popup-image"><i
+                              class="flaticon-eye"></i></a>
                      </div>
                   </div>
                </div>
-               <div class="col-lg-3">
-                  <div class="row">
-                     <div class="col-12">
-                        <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                           <div class="bd-gallery-thumb-wrapper">
-                              <div class="bd-gallery-thumb">
-                                 <img src="assets/img/gallery/d19.webp" alt="img not found!">
-                              </div>
-                              <div class="bd-gallery-icon">
-                                 <a href="assets/img/gallery/d19.webp" class="popup-image"><i
-                                       class="flaticon-eye"></i></a>
-                              </div>
-                           </div>
-                        </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/d14.webp" alt="img not found!">
                      </div>
-                     <div class="col-12">
-                        <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                           <div class="bd-gallery-thumb-wrapper">
-                              <div class="bd-gallery-thumb">
-                                 <img src="assets/img/gallery/d20.webp" alt="img not found!">
-                              </div>
-                              <div class="bd-gallery-icon">
-                                 <a href="assets/img/gallery/d20.webp" class="popup-image"><i
-                                       class="flaticon-eye"></i></a>
-                              </div>
-                           </div>
-                        </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/d14.webp" class="popup-image"><i
+                              class="flaticon-eye"></i></a>
                      </div>
                   </div>
                </div>
-               <div class="col-lg-5">
-                  <div class="bd-gallery mb-25 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                     <div class="bd-gallery-thumb-wrapper">
-                        <div class="bd-gallery-thumb">
-                           <img src="assets/img/gallery/d21.webp" alt="img not found!">
-                        </div>
-                        <div class="bd-gallery-icon">
-                           <a href="assets/img/gallery/d21.webp" class="popup-image"><i class="flaticon-eye"></i></a>
-                        </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/d15.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/d15.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/d18.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/d18.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/d17.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/d17.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/d16.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/d16.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/d19.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/d19.webp" class="popup-image"><i
+                              class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/d20.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/d20.webp" class="popup-image"><i
+                              class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-1.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-1.webp" class="popup-image"><i
+                              class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/d21.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/d21.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-2.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-2.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-3.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-3.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-4.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-4.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-5.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-5.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-6.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-6.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-7.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-7.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-8.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-8.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-9.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-9.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-10.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-10.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-11.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-11.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-12.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-12.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-13.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-13.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-14.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-14.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-15.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-15.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-16.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-16.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-17.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-17.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-18.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-18.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-20.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-20.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-21.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-21.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-22.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-22.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-23.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-23.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-24.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-24.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-25.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-25.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-26.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-26.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-27.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-27.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-28.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-28.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-29.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-29.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-30.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-30.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-31.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-31.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-32.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-32.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-33.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-33.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-34.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-34.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-35.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-35.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-36.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-36.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-37.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-37.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-38.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-38.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-39.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-39.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-40.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-40.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-41.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-41.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-41.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-41.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-42.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-42.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-43.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-43.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-44.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-44.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-45.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-45.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-46.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-46.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-47.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-47.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-48.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-48.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-49.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-49.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-50.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-50.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-51.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-51.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-52.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-52.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-53.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-53.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-54.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-54.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-55.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-55.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-56.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-56.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-57.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-57.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-58.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-58.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-59.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-59.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-60.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-60.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-61.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-61.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-62.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-62.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-64.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-64.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-65.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-65.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-66.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-66.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-67.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-67.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-68.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-68.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-69.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-69.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-70.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-70.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-71.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-71.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-72.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-72.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-73.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-73.webp" class="popup-image"><i class="flaticon-eye"></i></a>
+                     </div>
+                  </div>
+               </div>
+               <div class="img-container__item | bd-gallery">
+                  <div class="bd-gallery-thumb-wrapper">
+                     <div class="bd-gallery-thumb">
+                        <img src="assets/img/gallery/g-74.webp" alt="img not found!">
+                     </div>
+                     <div class="bd-gallery-icon">
+                        <a href="assets/img/gallery/g-74.webp" class="popup-image"><i class="flaticon-eye"></i></a>
                      </div>
                   </div>
                </div>
@@ -340,11 +1005,46 @@
          </div>
       </div>
       <!-- gallery area end here  -->
-
    </main>
    <!-- main area end here  -->
    
    <!--#include file="footer.shtml"-->
+   <script src="https://cdn.jsdelivr.net/npm/minimasonry@latest/build/minimasonry.min.js"></script>
+   <script>
+     // Function to initialize MiniMasonry
+
+   function initializeMasonry() {
+
+var masonry = new MiniMasonry({
+
+   container: '.img-container',
+
+   baseWidth: 250,
+
+   gutter: 20,
+
+});
+
+}
+
+
+// Wait for the window to load, which includes all images
+
+window.onload = function() {
+
+initializeMasonry();
+
+};
+   </script>
+   <script>
+      document.addEventListener('contextmenu', function(e) {
+         if (e.target.tagName === 'IMG') {
+            e.preventDefault();
+         }
+      });
+   </script>
+
+
 </body>
 
 </html>

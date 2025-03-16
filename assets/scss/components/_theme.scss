@@ -552,3 +552,12 @@ i[class^="flaticon-"] {
 	box-shadow: 0px 16px 32px 0px rgba(0, 0, 0, 0.06);
 	margin-right: 20px;
 }
+
+.modal-lg{
+	max-width: 680px;
+}
+img {
+	-webkit-user-drag: none; /* For Safari */
+	user-drag: none; /* For other browsers */
+	pointer-events: none; /* Prevents all mouse events */
+ }

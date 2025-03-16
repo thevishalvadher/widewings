@@ -413,7 +413,7 @@
                <div class="col-lg-9">
                   <div class="bd-section-title-wrapper text-center mb-55 wow fadeInUp" data-wow-duration="1s"
                      data-wow-delay=".2s">
-                     <h2 class="bd-section-title mb-0">Our Programs</h2>
+                     <h2 class="bd-section-title mb-0 lh-1">Our Programs<br> <span class="fs-3">(Gujarati & English Medium)</span></h2>
                      <p>Our Toddler Program introduces structured learning for early socialization. The Nursery, Junior KG, and Senior KG Programs prepare children for primary school with age-appropriate curriculum.</p>
                   </div>
                </div>
@@ -661,20 +661,20 @@
 
      <!--#include file="best-teacher.shtml"-->
       <!-- Modal -->
-      <!-- <div class="modal fade ad-open-modal" id="adopenModal" tabindex="-1"  aria-hidden="true">
+      <div class="modal fade ad-open-modal" id="adopenModal" tabindex="-1"  aria-hidden="true">
          <div class="modal-dialog modal-lg modal-dialog-centered">
          <div class="modal-content border-0">
             <div class="modal-body p-0">
                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                <a href="contact.shtml">
-                  <img src="assets/img/program/addmission-open.webp" alt="ADMISSIONS NOW OPEN" class="img-fluid">
+                  <img src="assets/img/program/addmission-open-guj.webp" alt="ADMISSIONS NOW OPEN" class="img-fluid">
                </a>
             </div>
          </div>
          </div>
-      </div> -->
+      </div>
 
-      <!-- <script>
+     <script>
          // Get the modal element
          var myModal = document.getElementById('adopenModal');
       
@@ -685,7 +685,7 @@
                modal.show();
             }, 1000); // Delay of 2000ms (2 seconds)
          };
-      </script> -->
+      </script>
       
       
       

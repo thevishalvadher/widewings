@@ -71,5 +71,23 @@
         }
     }
 }
-
+.img-container{
+    position: relative;
+    &__item{
+        position: absolute;
+        .bd-gallery-thumb{
+            border: 1px solid #ddd;
+            img{
+                pointer-events: none;
+            }
+        }
+    }
+}
 //GALLERY CSS END
+@media(max-width:1199px){
+    .img-container{
+        &__item{
+            pointer-events: none;
+        }
+    }
+}

@@ -223,27 +223,17 @@
  <script src="assets/js/main.js"></script>
  <script src="//code.tidio.co/3fi3xhic4acgnwtkusrxhimozdipk7tl.js" async></script>
  <script>
-   const video = document.getElementById('promo-video');
-   // Ensure that sound can be played only after a user interaction
-   document.addEventListener('click', () => {
-      video.muted = false; // Enable sound on first user interaction
-   }, { once: true }); // Only run this once
+   document.addEventListener('contextmenu', function(e) {
+     e.preventDefault();
+  });
+  // Prevent default drag behavior
+  document.querySelectorAll('img').forEach(function(img) {
+     img.setAttribute('draggable', 'false');
+     img.addEventListener('dragstart', function(e) {
+        e.preventDefault(); // Prevent the default drag behavior
+     });
+  });
 
-   // Create an intersection observer to play/pause and unmute/mute video
-   const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-         if (entry.isIntersecting) {
-               // Play and unmute the video when it enters the viewport
-               video.muted = false;  // Unmute (only if user has clicked at least once)
-               video.play();
-         } else {
-               // Pause and mute the video when it exits the viewport
-               video.pause();
-               video.muted = true;   // Mute it again when out of view
-         }
-      });
-   }, { threshold: 0.5 }); // Adjust the threshold as needed
 
-   // Start observing the video container
-   observer.observe(document.querySelector('.video-container'));
+
 </script>

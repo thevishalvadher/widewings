@@ -4,7 +4,31 @@
    Your browser does not support the video tag.
 </video>
 </div>
+<script>
+   const video = document.getElementById('promo-video');
+   // Ensure that sound can be played only after a user interaction
+   document.addEventListener('click', () => {
+      video.muted = false; // Enable sound on first user interaction
+   }, { once: true }); // Only run this once
 
+   // Create an intersection observer to play/pause and unmute/mute video
+   const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+         if (entry.isIntersecting) {
+               // Play and unmute the video when it enters the viewport
+               video.muted = false;  // Unmute (only if user has clicked at least once)
+               video.play();
+         } else {
+               // Pause and mute the video when it exits the viewport
+               video.pause();
+               video.muted = true;   // Mute it again when out of view
+         }
+      });
+   }, { threshold: 0.5 }); // Adjust the threshold as needed
+
+   // Start observing the video container
+   observer.observe(document.querySelector('.video-container'));
+</script>
 <!-- joining area start here  -->
 <!-- <section class="bd-joining-area pt-100 pb-100">
    <div class="bd-joining-bg" data-background="assets/img/bg/joining-area.png"></div>
